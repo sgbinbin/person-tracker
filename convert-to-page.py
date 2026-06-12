@@ -67,13 +67,15 @@ def convert_news_to_page_format(tracker_data: dict) -> list:
             topic = "Robotics"
         
         news.append({
-            "topic": {"en": topic, "ja": topic},
+            "topic": {"en": topic, "ja": topic, "zh": topic, "ko": topic},
             "head": {
                 "en": article.get("title", "")[:100],
-                "ja": article.get("title", "")[:100]
+                "ja": article.get("title", "")[:100],
+                "zh": article.get("title", "")[:100],
+                "ko": article.get("title", "")[:100]
             },
-            "src": {"en": article.get("source", "News"), "ja": article.get("source", "News")},
-            "time": {"en": time_str, "ja": time_str},
+            "src": {"en": article.get("source", "News"), "ja": article.get("source", "News"), "zh": article.get("source", "News"), "ko": article.get("source", "News")},
+            "time": {"en": time_str, "ja": time_str, "zh": time_str, "ko": time_str},
             "url": article.get("url", "")
         })
     
@@ -85,13 +87,9 @@ def convert_to_page_format(person_id: str) -> dict:
     if not tracker_data:
         return None
     
-    # Get insights
-    insights = tracker_data.get("insights", {})
-    locations = insights.get("locations", ["Unknown"])
-    activities = insights.get("activities", ["Public Activities"])
-    
-    # Build location string
-    location = locations[0] if locations else "Unknown"
+    # Get location from analysis (not insights which is empty)
+    analysis = tracker_data.get("analysis", {})
+    location = analysis.get("inferred_location", "Unknown")
     status = tracker_data.get("status", f"📍 {location}")
     
     # Get name mappings
@@ -156,24 +154,52 @@ def convert_to_page_format(person_id: str) -> dict:
     
     names = name_map.get(person_id, {})
     
+    # Determine timezone based on location
+    tz_map = {
+        "Tokyo": (9, "東京 JST", "Tokyo JST"),
+        "Japan": (9, "東京 JST", "Tokyo JST"),
+        "Seoul": (9, "ソウル KST", "Seoul KST"),
+        "Korea": (9, "ソウル KST", "Seoul KST"),
+        "Suwon": (9, "ソウル KST", "Seoul KST"),
+    }
+    tz_offset = -7  # default PDT
+    tz_ja = "SF PDT"
+    tz_en = "SF PDT"
+    for key, (offset, ja, en) in tz_map.items():
+        if key in location:
+            tz_offset, tz_ja, tz_en = offset, ja, en
+            break
+    
     result = {
         "person_id": person_id,
-        "timezone": 9 if person_id == "masayoshi-son" else -7,
+        "timezone": tz_offset,
         "timezoneLabel": {
-            "ja": "東京 JST" if person_id == "masayoshi-son" else "SF PDT",
-            "en": "Tokyo JST" if person_id == "masayoshi-son" else "SF PDT"
+            "ja": tz_ja,
+            "en": tz_en
         },
         "subject": {
             "ja": {
                 "name": names.get("ja", tracker_data.get("name", "")),
                 "role": names.get("role_ja", tracker_data.get("title", "")),
-                "location": f"{location}",
+                "location": location,
+                "status": status
+            },
+            "zh": {
+                "name": names.get("zh", tracker_data.get("name", "")),
+                "role": names.get("role_zh", names.get("role_en", tracker_data.get("title", ""))),
+                "location": location,
                 "status": status
             },
             "en": {
                 "name": names.get("en", tracker_data.get("name", "")),
                 "role": names.get("role_en", tracker_data.get("title", "")),
-                "location": f"{location}",
+                "location": location,
+                "status": status
+            },
+            "ko": {
+                "name": names.get("ko", tracker_data.get("name", "")),
+                "role": names.get("role_ko", names.get("role_en", tracker_data.get("title", ""))),
+                "location": location,
                 "status": status
             }
         },

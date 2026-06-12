@@ -1,22 +1,34 @@
 {
   "jensen-huang": {
     "person_id": "jensen-huang",
-    "timezone": -7,
+    "timezone": 9,
     "timezoneLabel": {
-      "ja": "SF PDT",
-      "en": "SF PDT"
+      "ja": "ソウル KST",
+      "en": "Seoul KST"
     },
     "subject": {
       "ja": {
         "name": "ジェンスン・フアン",
         "role": "NVIDIA 共同創業者 / CEO",
-        "location": "Unknown",
+        "location": "Seoul, South Korea",
+        "status": "📍 Seoul, South Korea · 关注 NVIDIA"
+      },
+      "zh": {
+        "name": "黄仁勋",
+        "role": "NVIDIA Founder / CEO",
+        "location": "Seoul, South Korea",
         "status": "📍 Seoul, South Korea · 关注 NVIDIA"
       },
       "en": {
         "name": "Jensen Huang",
         "role": "NVIDIA Founder / CEO",
-        "location": "Unknown",
+        "location": "Seoul, South Korea",
+        "status": "📍 Seoul, South Korea · 关注 NVIDIA"
+      },
+      "ko": {
+        "name": "젠슨 황",
+        "role": "NVIDIA Founder / CEO",
+        "location": "Seoul, South Korea",
         "status": "📍 Seoul, South Korea · 关注 NVIDIA"
       }
     },
@@ -24,95 +36,135 @@
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip - BBC",
-          "ja": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip - BBC"
+          "ja": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip - BBC",
+          "zh": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip - BBC",
+          "ko": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip - BBC"
         },
         "src": {
           "en": "BBC",
-          "ja": "BBC"
+          "ja": "BBC",
+          "zh": "BBC",
+          "ko": "BBC"
         },
         "time": {
           "en": "May 13",
-          "ja": "May 13"
+          "ja": "May 13",
+          "zh": "May 13",
+          "ko": "May 13"
         },
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzWVdfZzIxODdYd2U2dVZHaVJlOU5jOF9qSzFvTERHdi1UbjFnSGdSOTRGcVgzSVZrNFRLMmNxZVk0NWlOZy1LLU5vdXJRYWZ0c0hNM29LYWxMZw?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "After Jensen Huang’s Visit, Seoul Restaurants Become Sites of Pilgrimage - Koreabizwire",
-          "ja": "After Jensen Huang’s Visit, Seoul Restaurants Become Sites of Pilgrimage - Koreabizwire"
+          "ja": "After Jensen Huang’s Visit, Seoul Restaurants Become Sites of Pilgrimage - Koreabizwire",
+          "zh": "After Jensen Huang’s Visit, Seoul Restaurants Become Sites of Pilgrimage - Koreabizwire",
+          "ko": "After Jensen Huang’s Visit, Seoul Restaurants Become Sites of Pilgrimage - Koreabizwire"
         },
         "src": {
           "en": "Koreabizwire",
-          "ja": "Koreabizwire"
+          "ja": "Koreabizwire",
+          "zh": "Koreabizwire",
+          "ko": "Koreabizwire"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVViSHpUXzVaZ2NMSFE3aUJkNnlxTEpZR2h3dWZPaGFQSVZCQm9yMFF0LThyekxvT3QydVJUQkFrbmpzQ0V5eUlPNE5IeXFSenE3R2VkX24tMmF2bTlnVEZHa1pBNHJ0VWkwUXZxN1VXX1pCUVZOcEk5WGZhajJpMk5iN1dIWnhqTTdqVFBiUG1ab1hYNVJKZjhxNHNpSXJvdkxB?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "Born At Denny’s: Jensen Huang’s Mega-Company Is Still Making Deals - Forbes",
-          "ja": "Born At Denny’s: Jensen Huang’s Mega-Company Is Still Making Deals - Forbes"
+          "ja": "Born At Denny’s: Jensen Huang’s Mega-Company Is Still Making Deals - Forbes",
+          "zh": "Born At Denny’s: Jensen Huang’s Mega-Company Is Still Making Deals - Forbes",
+          "ko": "Born At Denny’s: Jensen Huang’s Mega-Company Is Still Making Deals - Forbes"
         },
         "src": {
           "en": "Forbes",
-          "ja": "Forbes"
+          "ja": "Forbes",
+          "zh": "Forbes",
+          "ko": "Forbes"
         },
         "time": {
           "en": "2 days ago",
-          "ja": "2 days ago"
+          "ja": "2 days ago",
+          "zh": "2 days ago",
+          "ko": "2 days ago"
         },
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQklVOGtCWGN2NUVLeU5VRlg1WlpLTlBGejIxWVZleTlsRlRYeDdhWFRUNzYtRjBOanp3VENnRURXQ19nTVhfb0o5RTdJSEhjbEFoREwwdk01NlZOemNkZTdrdjYyRVhlSXBneUVhaW9CYTBRU1FfMV9TOVc0QmJNT19VTTV5TkoxSjEzM1RjS0tHN2VDTlpPaFRfamhxVmRrR1g5V0c3VUFRb2xQUTdZZ2F4cWpkdw?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "World’s 8th-richest billionaire Jensen Huang’s dining tour sends South Korean food sales soaring - V",
-          "ja": "World’s 8th-richest billionaire Jensen Huang’s dining tour sends South Korean food sales soaring - V"
+          "ja": "World’s 8th-richest billionaire Jensen Huang’s dining tour sends South Korean food sales soaring - V",
+          "zh": "World’s 8th-richest billionaire Jensen Huang’s dining tour sends South Korean food sales soaring - V",
+          "ko": "World’s 8th-richest billionaire Jensen Huang’s dining tour sends South Korean food sales soaring - V"
         },
         "src": {
           "en": "VnExpress International",
-          "ja": "VnExpress International"
+          "ja": "VnExpress International",
+          "zh": "VnExpress International",
+          "ko": "VnExpress International"
         },
         "time": {
           "en": "2 days ago",
-          "ja": "2 days ago"
+          "ja": "2 days ago",
+          "zh": "2 days ago",
+          "ko": "2 days ago"
         },
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUlFzX1BqblhNY0c1dGVaRVRYTWRzRmd6MEVPOVhYV01KVkhtTTA5VTJDN09icFJ2ZUtobVFUc1FGWUxISEtsZmRzZG9seVFLYXFfeDZkN0laMGtFRG1NQlFjSENqcVBNSnluYVIxYlBySUJyRWxYQ3JWVjhoel9EeGphNF9kcUJOeHM5UTR6dlNyTFpuMG9sZTAwTFMwUUpXVEkxT3ZZSlhodzFlVTNrbnBfNE8zeTQ3eDg4UWlzZUkxRmZfNVJKcUUxREdqOUVpZWc3WWhUancwNUdGblY1Y1NlNGhvRDhwM3B3?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Reuters",
-          "ja": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Reuters"
+          "ja": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Reuters",
+          "zh": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Reuters",
+          "ko": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure - Reuters"
         },
         "src": {
           "en": "Reuters",
-          "ja": "Reuters"
+          "ja": "Reuters",
+          "zh": "Reuters",
+          "ko": "Reuters"
         },
         "time": {
-          "en": "11 hours ago",
-          "ja": "11 hours ago"
+          "en": "16 hours ago",
+          "ja": "16 hours ago",
+          "zh": "16 hours ago",
+          "ko": "16 hours ago"
         },
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTHBuUlF1el9kb3Z6QW1fUUprMmwzd183eUluNXZWb0Z4Vy1fLVVXemFjLUVROUpPQWVrckp4TFJZaDNYRGlqU1JPUkNIWHotUXdpWThYQ1ZYWlN0dHhYX1VNVjlzWGc?oc=5"
       }
@@ -122,10 +174,10 @@
   },
   "masayoshi-son": {
     "person_id": "masayoshi-son",
-    "timezone": 9,
+    "timezone": -7,
     "timezoneLabel": {
-      "ja": "東京 JST",
-      "en": "Tokyo JST"
+      "ja": "SF PDT",
+      "en": "SF PDT"
     },
     "subject": {
       "ja": {
@@ -134,8 +186,20 @@
         "location": "Unknown",
         "status": "📍 Unknown · 关注 NVIDIA"
       },
+      "zh": {
+        "name": "孙正义",
+        "role": "SoftBank Group Chairman & CEO",
+        "location": "Unknown",
+        "status": "📍 Unknown · 关注 NVIDIA"
+      },
       "en": {
         "name": "Masayoshi Son",
+        "role": "SoftBank Group Chairman & CEO",
+        "location": "Unknown",
+        "status": "📍 Unknown · 关注 NVIDIA"
+      },
+      "ko": {
+        "name": "손정의",
         "role": "SoftBank Group Chairman & CEO",
         "location": "Unknown",
         "status": "📍 Unknown · 关注 NVIDIA"
@@ -145,95 +209,135 @@
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "Masayoshi Son Becomes Japan’s Richest With $55 Billion Fortune - Bloomberg",
-          "ja": "Masayoshi Son Becomes Japan’s Richest With $55 Billion Fortune - Bloomberg"
+          "ja": "Masayoshi Son Becomes Japan’s Richest With $55 Billion Fortune - Bloomberg",
+          "zh": "Masayoshi Son Becomes Japan’s Richest With $55 Billion Fortune - Bloomberg",
+          "ko": "Masayoshi Son Becomes Japan’s Richest With $55 Billion Fortune - Bloomberg"
         },
         "src": {
           "en": "Bloomberg",
-          "ja": "Bloomberg"
+          "ja": "Bloomberg",
+          "zh": "Bloomberg",
+          "ko": "Bloomberg"
         },
         "time": {
           "en": "Oct 29",
-          "ja": "Oct 29"
+          "ja": "Oct 29",
+          "zh": "Oct 29",
+          "ko": "Oct 29"
         },
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVFlZFFNYTM5ZjJJZDBEVDV3Q2Z1S2JsajdqN09PYnRvZVFFSG9Nd0JNZEhqTjFBQ3JKQ0xPdVc1WkE4dTdFbmgybEdMNUo1MnVWN2ctMGZWRzQtV0dvajZ0MWhwcVZKQTBrODhfc2N6NnlfUkZ5blhBZTM5WllVZlVNZFM0SVdDMW1zRUlWeXBMaXpUajYxandNLUtxc0hnOFlES25OZ2dfZTVxdUVCQVRn?oc=5"
       },
       {
         "topic": {
           "en": "Semiconductors",
-          "ja": "Semiconductors"
+          "ja": "Semiconductors",
+          "zh": "Semiconductors",
+          "ko": "Semiconductors"
         },
         "head": {
           "en": "Watch Huang, Son Joke About SoftBank's Early Stake in Nvidia - Bloomberg",
-          "ja": "Watch Huang, Son Joke About SoftBank's Early Stake in Nvidia - Bloomberg"
+          "ja": "Watch Huang, Son Joke About SoftBank's Early Stake in Nvidia - Bloomberg",
+          "zh": "Watch Huang, Son Joke About SoftBank's Early Stake in Nvidia - Bloomberg",
+          "ko": "Watch Huang, Son Joke About SoftBank's Early Stake in Nvidia - Bloomberg"
         },
         "src": {
           "en": "Bloomberg",
-          "ja": "Bloomberg"
+          "ja": "Bloomberg",
+          "zh": "Bloomberg",
+          "ko": "Bloomberg"
         },
         "time": {
           "en": "Nov 13",
-          "ja": "Nov 13"
+          "ja": "Nov 13",
+          "zh": "Nov 13",
+          "ko": "Nov 13"
         },
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2J5VVVLOU5JU0ZSWUJnZkRYUF8tOHAwTVZDaXU1Y2xoWlE4QmRVZndjTnl3SEt5VU8wMTdZWGt2M3hVVXdhWjNIN3l3NUh4TUQ0UGhvMlhmLUNtNnZscHAzV0xyMHAweWZ1OGFTWkZIdmdsT2I3dDNRcWZnM0FLYkEwNFJZZkUwWGpoWHZiZXlEUGRuMFVqcDBlSXl4TmRxN2t6VGVqSXpoOGlH?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Japan’s SoftBank racks up huge profit gains with lift from lucrative AI investments - WOWK 13 News",
-          "ja": "Japan’s SoftBank racks up huge profit gains with lift from lucrative AI investments - WOWK 13 News"
+          "ja": "Japan’s SoftBank racks up huge profit gains with lift from lucrative AI investments - WOWK 13 News",
+          "zh": "Japan’s SoftBank racks up huge profit gains with lift from lucrative AI investments - WOWK 13 News",
+          "ko": "Japan’s SoftBank racks up huge profit gains with lift from lucrative AI investments - WOWK 13 News"
         },
         "src": {
           "en": "WOWK 13 News",
-          "ja": "WOWK 13 News"
+          "ja": "WOWK 13 News",
+          "zh": "WOWK 13 News",
+          "ko": "WOWK 13 News"
         },
         "time": {
           "en": "May 13",
-          "ja": "May 13"
+          "ja": "May 13",
+          "zh": "May 13",
+          "ko": "May 13"
         },
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ3dWTUV2ZDJ5YzVCYjV2OWpPTm5XQzhJbUp1N085NS1YZ1pWbEF3X1Nta2ZBUkZyX3Z5YkhEalk0OEkwYy1TV3h3M3RTU2M3cjhhTklYTFJMS2R1RHNUbDlJN05xV0xwVVdWZ2JMVmhnSjVkRDRvZ0RkQmlWUTgxcXAxaGsyTDZiQk9Qb0tMUGFJSkhyT24yS3RCanpVWk51YzY2QXVjUjlLWHB5R01aM0JyTS13YUl0UGxKemZSdzJSQdIBxwFBVV95cUxQamFTTnhsQzFZVW5RWV85bVNfYkw3bTZELXFxVDBDelVXUEgzNGl6ME9KWkFvQ0U5cUVxa29CMVJGdUtzd18yNllReTh1c3JRX1NEUFU3SlpraHZkSVpubksweDN3dnJWMHFIdUU2cWZ5cVVQVDdFczIyUUFfQVhyNWtKcllCR0Q3WVJKXzNBRlk5ZVMwdDRYUGFXb2ZvMV9vRnpyU21VdEk1akduTEtrZjJxNmMxRTdZRmR5eWtlTW9EM3ozaG1V?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus",
-          "ja": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus"
+          "ja": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus",
+          "zh": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus",
+          "ko": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus"
         },
         "src": {
           "en": "Business Insider",
-          "ja": "Business Insider"
+          "ja": "Business Insider",
+          "zh": "Business Insider",
+          "ko": "Business Insider"
         },
         "time": {
           "en": "Mar 11",
-          "ja": "Mar 11"
+          "ja": "Mar 11",
+          "zh": "Mar 11",
+          "ko": "Mar 11"
         },
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczRTODJuOEcxM0ZxVjFCbkdTRHFtTmVNa1FuUElFeldkMFk1YlUwMmRibTd6MWV1N0hEWV8tS19MN1FwakhWVi1TLU92a09xeGlza19LY2ZPc3RPOXBDUWEtVENLWEVZZFdQRlBkM2xSYXlOeVVGXzdHYTNkcENIcFZRSG8wVmZ4VklfYXppRllnQWJYM2V1OXJSZFdhZV92N0U0?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Masayoshi Son represents fragile link in AI chain - Reuters",
-          "ja": "Masayoshi Son represents fragile link in AI chain - Reuters"
+          "ja": "Masayoshi Son represents fragile link in AI chain - Reuters",
+          "zh": "Masayoshi Son represents fragile link in AI chain - Reuters",
+          "ko": "Masayoshi Son represents fragile link in AI chain - Reuters"
         },
         "src": {
           "en": "Reuters",
-          "ja": "Reuters"
+          "ja": "Reuters",
+          "zh": "Reuters",
+          "ko": "Reuters"
         },
         "time": {
           "en": "Mar 31",
-          "ja": "Mar 31"
+          "ja": "Mar 31",
+          "zh": "Mar 31",
+          "ko": "Mar 31"
         },
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWhveEx5QnNDMU5ha3huUXljSXlHdVd1bFU2QmxtSlBPSkRlTkpLUGNFNjdrV09TWFQtQmRub0ctUXBkZ0VTN2JaZWVmTjVMQkJOdXNDYzZoREFXdERxdWtTUVdTbV9vTFVHRjh3cG02aVZCeEd2bG1UZUhRLXZQSTBEWEJybF8xM08xTWJES1R1dG5VSEJvY1JIMA?oc=5"
       }
@@ -252,13 +356,25 @@
       "ja": {
         "name": "イーロン・マスク",
         "role": "Tesla / SpaceX / xAI CEO",
-        "location": "Unknown",
+        "location": "New York, USA",
+        "status": "📍 New York, USA · 利好 数据中心"
+      },
+      "zh": {
+        "name": "埃隆·马斯克",
+        "role": "Tesla, SpaceX & xAI CEO",
+        "location": "New York, USA",
         "status": "📍 New York, USA · 利好 数据中心"
       },
       "en": {
         "name": "Elon Musk",
         "role": "Tesla, SpaceX & xAI CEO",
-        "location": "Unknown",
+        "location": "New York, USA",
+        "status": "📍 New York, USA · 利好 数据中心"
+      },
+      "ko": {
+        "name": "일론 머스크",
+        "role": "Tesla, SpaceX & xAI CEO",
+        "location": "New York, USA",
         "status": "📍 New York, USA · 利好 数据中心"
       }
     },
@@ -266,95 +382,135 @@
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Elon Musk says AI will create so much wealth that ‘everyone can have a penthouse if they want’ - Yah",
-          "ja": "Elon Musk says AI will create so much wealth that ‘everyone can have a penthouse if they want’ - Yah"
+          "ja": "Elon Musk says AI will create so much wealth that ‘everyone can have a penthouse if they want’ - Yah",
+          "zh": "Elon Musk says AI will create so much wealth that ‘everyone can have a penthouse if they want’ - Yah",
+          "ko": "Elon Musk says AI will create so much wealth that ‘everyone can have a penthouse if they want’ - Yah"
         },
         "src": {
           "en": "Yahoo Finance",
-          "ja": "Yahoo Finance"
+          "ja": "Yahoo Finance",
+          "zh": "Yahoo Finance",
+          "ko": "Yahoo Finance"
         },
         "time": {
           "en": "Apr 22",
-          "ja": "Apr 22"
+          "ja": "Apr 22",
+          "zh": "Apr 22",
+          "ko": "Apr 22"
         },
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUndzalZWZFNIZEt2NmFPRlVoaDg4QnhBSUQ0VHpTUkNUaXcwY3VzTlAtdkdMTVQ5LWtHNGRSaVZaSHhKRGx3VEp3WVVSWndRbUJ5QXZObGpzcFJ6YVNFSWFSdU94MDEzMWVQMHNwcWx4NTRFZXBaV3hIdzlpY3FOckhFV3EzUHNrMjZfZkZHN2lySXc?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Musk’s xAI, SpaceX sued over ‘pervasive and inescapable’ data center power plant noise - The Hill",
-          "ja": "Musk’s xAI, SpaceX sued over ‘pervasive and inescapable’ data center power plant noise - The Hill"
+          "ja": "Musk’s xAI, SpaceX sued over ‘pervasive and inescapable’ data center power plant noise - The Hill",
+          "zh": "Musk’s xAI, SpaceX sued over ‘pervasive and inescapable’ data center power plant noise - The Hill",
+          "ko": "Musk’s xAI, SpaceX sued over ‘pervasive and inescapable’ data center power plant noise - The Hill"
         },
         "src": {
           "en": "The Hill",
-          "ja": "The Hill"
+          "ja": "The Hill",
+          "zh": "The Hill",
+          "ko": "The Hill"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWRhU3p4dDlJbzYxYXRyaC11cTVnUS1zSmJ1QVFENmVqX2lGdEFZQ2MxbG5xblo0QlRCV3p4d2o5WEJmbWxMUWoxUFVsNzdXSVFkQ3kybVU2S3djZ3psY25mUGxmcmhJOWl5aXM4V2QxeUVoYXo5dFNZcmJFM0NQcnpwMmlpYm1zcXhJWHVYY1pCbjlnSVVNYdIBngFBVV95cUxOb1RudFpmYk5tTk81NkQtZFFSb1NXUV92XzBxa3pZelJsLWdDckN0RG5LSnZGMFFKYTFDMlNic1NzNk1PdWdNSWoyZHN4Y2ZNZlg1RHdfLWVTUllpaXFvOVp5ZmZJVjlGLS10R2YwN0ZTdU4wTy0teUdJeWxUMUZfZU5yWmg5bnFnUEVaQ0FVQU9VcGhlaDlQWVVnR280UQ?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "Elon Musk - Forbes",
-          "ja": "Elon Musk - Forbes"
+          "ja": "Elon Musk - Forbes",
+          "zh": "Elon Musk - Forbes",
+          "ko": "Elon Musk - Forbes"
         },
         "src": {
           "en": "Forbes",
-          "ja": "Forbes"
+          "ja": "Forbes",
+          "zh": "Forbes",
+          "ko": "Forbes"
         },
         "time": {
           "en": "Mar 10",
-          "ja": "Mar 10"
+          "ja": "Mar 10",
+          "zh": "Mar 10",
+          "ko": "Mar 10"
         },
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZWnllaFJJc3BnaTV6R3JQbV91aWpGRFJUSnJnQkNOZ2F3MkVUTmhGMThPVDBHeVlDVDhVdTZpMmlrTFgyNVhHNmFWU01sdzAxQmxz?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters",
-          "ja": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters"
+          "ja": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters",
+          "zh": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters",
+          "ko": "SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters"
         },
         "src": {
           "en": "Reuters",
-          "ja": "Reuters"
+          "ja": "Reuters",
+          "zh": "Reuters",
+          "ko": "Reuters"
         },
         "time": {
-          "en": "10 hours ago",
-          "ja": "10 hours ago"
+          "en": "14 hours ago",
+          "ja": "14 hours ago",
+          "zh": "14 hours ago",
+          "ko": "14 hours ago"
         },
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2x1cE0xNTl3dWdWTHhWdTlmU05kWmRvaGxIbTRNd21CbUxDWkVuN3djS1piZGtDOUVuNnJyY1dwS1FxWnVCMmJtT05rbHJXWHlQaUo0aVFkejlpOW96Z201ck91QmJNdWlHZm1zUWJLdWxNWm9Bck5PVjRqZHI5d29RaHk4RHRvdFZCU0VmZS1pM3NxNHVKZ1N5ZjBGOXBXTDc0cTdQUmdubEVaNHpDbA?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims - The Guardian",
-          "ja": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims - The Guardian"
+          "ja": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims - The Guardian",
+          "zh": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims - The Guardian",
+          "ko": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims - The Guardian"
         },
         "src": {
           "en": "The Guardian",
-          "ja": "The Guardian"
+          "ja": "The Guardian",
+          "zh": "The Guardian",
+          "ko": "The Guardian"
         },
         "time": {
-          "en": "11 hours ago",
-          "ja": "11 hours ago"
+          "en": "15 hours ago",
+          "ja": "15 hours ago",
+          "zh": "15 hours ago",
+          "ko": "15 hours ago"
         },
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHlYNnFQeW5OWXJqRDB2Y283UVdLRzdPMHFEUEM4SENCVWhXVUl1bFpxeHFfYzdjQV9WNWIwLWItVjZiZHhaQ0JEMWVUSmUyWkJqbEI2Y1RaYlAwajZxVWV3aFY5R2gyb2dxaDczNEZoR2ZPR0V1QXo4bFB1c2NVS0dBYUN6MUN5RWpwYURSUWlxdw?oc=5"
       }
@@ -364,22 +520,34 @@
   },
   "sam-altman": {
     "person_id": "sam-altman",
-    "timezone": -7,
+    "timezone": 9,
     "timezoneLabel": {
-      "ja": "SF PDT",
-      "en": "SF PDT"
+      "ja": "ソウル KST",
+      "en": "Seoul KST"
     },
     "subject": {
       "ja": {
         "name": "サム・アルトマン",
         "role": "OpenAI CEO",
-        "location": "Unknown",
+        "location": "Suwon/Seoul (Samsung)",
+        "status": "📍 Suwon/Seoul (Samsung) · 关注 三星"
+      },
+      "zh": {
+        "name": "萨姆·阿尔特曼",
+        "role": "OpenAI CEO",
+        "location": "Suwon/Seoul (Samsung)",
         "status": "📍 Suwon/Seoul (Samsung) · 关注 三星"
       },
       "en": {
         "name": "Sam Altman",
         "role": "OpenAI CEO",
-        "location": "Unknown",
+        "location": "Suwon/Seoul (Samsung)",
+        "status": "📍 Suwon/Seoul (Samsung) · 关注 三星"
+      },
+      "ko": {
+        "name": "샘 올트먼",
+        "role": "OpenAI CEO",
+        "location": "Suwon/Seoul (Samsung)",
         "status": "📍 Suwon/Seoul (Samsung) · 关注 三星"
       }
     },
@@ -387,95 +555,135 @@
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is S",
-          "ja": "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is S"
+          "ja": "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is S",
+          "zh": "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is S",
+          "ko": "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is S"
         },
         "src": {
           "en": "Yahoo Finance",
-          "ja": "Yahoo Finance"
+          "ja": "Yahoo Finance",
+          "zh": "Yahoo Finance",
+          "ko": "Yahoo Finance"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmVKQmVnQWhqSDBtcUd3NVlvb25jakpPUGNzbThsT1EydHBOb0hNTmZuQWMyZk5RbDNySS1mNkU0ZS1HRmM2WUVsN3VvWHM1T3h6d3ViV0wyWnZyNjVTOGxQczNkODA3WndlT1JDYUoyREVlcEV1Y2hOQlVOWGdFS0FzZGRDbG4tby1ma2JoaklOY21fZFNnUENFbGtuZWY4?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
-          "ja": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information"
+          "ja": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
+          "zh": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
+          "ko": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information"
         },
         "src": {
           "en": "The Information",
-          "ja": "The Information"
+          "ja": "The Information",
+          "zh": "The Information",
+          "ko": "The Information"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "OpenAI files for US IPO as AI rivals race to public markets - The Journal Record",
-          "ja": "OpenAI files for US IPO as AI rivals race to public markets - The Journal Record"
+          "ja": "OpenAI files for US IPO as AI rivals race to public markets - The Journal Record",
+          "zh": "OpenAI files for US IPO as AI rivals race to public markets - The Journal Record",
+          "ko": "OpenAI files for US IPO as AI rivals race to public markets - The Journal Record"
         },
         "src": {
           "en": "The Journal Record",
-          "ja": "The Journal Record"
+          "ja": "The Journal Record",
+          "zh": "The Journal Record",
+          "ko": "The Journal Record"
         },
         "time": {
           "en": "2 days ago",
-          "ja": "2 days ago"
+          "ja": "2 days ago",
+          "zh": "2 days ago",
+          "ko": "2 days ago"
         },
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTENOUVppUlNvOGFNS2diZmNCbHNsTkhkSUpBYWY5cmtFV0l3VmJmSjdCZ251Q0RYWGFkaHU3R29Na1JiV2hRVlZ6ZnotdENKSVc1YXlUTHZ0RUdEVWt2LXU5ZzgwRjhhZ01feUFDQmVFR2JRUWlYRVNDTHoxS2V1aWZIUEVCTjdXQ3pRYVJkMA?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "Sam Altman visits Washington for White House and Hill meetings - Politico",
-          "ja": "Sam Altman visits Washington for White House and Hill meetings - Politico"
+          "ja": "Sam Altman visits Washington for White House and Hill meetings - Politico",
+          "zh": "Sam Altman visits Washington for White House and Hill meetings - Politico",
+          "ko": "Sam Altman visits Washington for White House and Hill meetings - Politico"
         },
         "src": {
           "en": "Politico",
-          "ja": "Politico"
+          "ja": "Politico",
+          "zh": "Politico",
+          "ko": "Politico"
         },
         "time": {
           "en": "Jun 02",
-          "ja": "Jun 02"
+          "ja": "Jun 02",
+          "zh": "Jun 02",
+          "ko": "Jun 02"
         },
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjUwaFczanR4RXE5MVVuOW1SZ0NUcDZXcTczRlByc0lLQzE1YWZXVFduN2RjWnlCZzVaX1JoSFNLMXNjZWFnVHN4VHc4UlB4bTVCSFo5R2pwSmYtdUk3RTE5SHVqaURzd1UyZ3ZEaUVleHpRUlpFcE9mcDhxQXVnbXNpWF9UZ0hRX1Rzc28tSQ?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - Th",
-          "ja": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - Th"
+          "ja": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - Th",
+          "zh": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - Th",
+          "ko": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - Th"
         },
         "src": {
           "en": "The Conversation",
-          "ja": "The Conversation"
+          "ja": "The Conversation",
+          "zh": "The Conversation",
+          "ko": "The Conversation"
         },
         "time": {
           "en": "Jun 02",
-          "ja": "Jun 02"
+          "ja": "Jun 02",
+          "zh": "Jun 02",
+          "ko": "Jun 02"
         },
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGdwSWplR3R4SDE0OWVyVm1lcDRNbllQQklGbVJ2ZkhnNkw0ZjNueUhTZmhvRXRiY2RXczhQQV93WkhCdkU5VHBZcVZnQmdZY2J6R0VrOVhZRTJ5dFJrOXBfX3Z5MEUzS3lnbG9CV3UwcTRaaGF6dlhVQU91QTNKTUtOSXllcE9DS0hTQmNWSTlXVDdkd2FNT2lOZUVFMWhGeE1JUWFZVUlUcXM2Rkd2ODVXbnQwTWtTSzE5WmFPZlV2TkQ5NEE?oc=5"
       }
@@ -497,8 +705,20 @@
         "location": "Unknown",
         "status": "📍 Unknown · 利好 存储芯片/HBM"
       },
+      "zh": {
+        "name": "达里奥·阿莫德伊",
+        "role": "Anthropic CEO",
+        "location": "Unknown",
+        "status": "📍 Unknown · 利好 存储芯片/HBM"
+      },
       "en": {
         "name": "Dario Amodei",
+        "role": "Anthropic CEO",
+        "location": "Unknown",
+        "status": "📍 Unknown · 利好 存储芯片/HBM"
+      },
+      "ko": {
+        "name": "다리오 아모데이",
         "role": "Anthropic CEO",
         "location": "Unknown",
         "status": "📍 Unknown · 利好 存储芯片/HBM"
@@ -508,95 +728,135 @@
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - ",
-          "ja": "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - "
+          "ja": "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - ",
+          "zh": "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - ",
+          "ko": "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - "
         },
         "src": {
           "en": "Ars Technica",
-          "ja": "Ars Technica"
+          "ja": "Ars Technica",
+          "zh": "Ars Technica",
+          "ko": "Ars Technica"
         },
         "time": {
           "en": "Jan 22",
-          "ja": "Jan 22"
+          "ja": "Jan 22",
+          "zh": "Jan 22",
+          "ko": "Jan 22"
         },
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXlPZU1ZbWNsWGllMk9hMmNvdU5DSVZ0LWswSVhYREtnWEd4eGZ0MDJJLUstbzN0Y1E0UTJaVG5LRkpRekpGcXdPcVRFVnJCdlNNWnZEbWdKamg0MHlyVktqcEtvclUtOWRGdU5jV09qdXNuTkM0M1poNUNTaVpKNjdMa056OUEwZlhzSmE1UWVFb3ZmTl9TQ2NHdXN2cnY5VzN1ZDdZckROMGM1NkRvMU9wUlo3eWtmZmZlcjJKN2FSbloxVGdrdjRJTQ?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - ",
-          "ja": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - "
+          "ja": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - ",
+          "zh": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - ",
+          "ko": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - "
         },
         "src": {
           "en": "Business Insider",
-          "ja": "Business Insider"
+          "ja": "Business Insider",
+          "zh": "Business Insider",
+          "ko": "Business Insider"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUNNUU9uZTlWcUozeDlQRTlpcmprWUdrMWlyaVRFb1dXeGtrdTFpTU9HcEZjNVVIOERNSGhXVFhsRG15N2JlczJDVjVoZktiSEpNRUN6aWc4VGtSYnVSRkQwajZJNFR4WFhVVDJnMENqZ3Y4NjdGZl9OZW1IMEp5WXZ0Q043dkNkU24wcXJha2JPWDNGTURVc3BxNExFNjFwUUY1R25KNVc?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Anthropic backs mandatory testing for frontier AI models - Politico",
-          "ja": "Anthropic backs mandatory testing for frontier AI models - Politico"
+          "ja": "Anthropic backs mandatory testing for frontier AI models - Politico",
+          "zh": "Anthropic backs mandatory testing for frontier AI models - Politico",
+          "ko": "Anthropic backs mandatory testing for frontier AI models - Politico"
         },
         "src": {
           "en": "Politico",
-          "ja": "Politico"
+          "ja": "Politico",
+          "zh": "Politico",
+          "ko": "Politico"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVl9QRy0tRE9Qb25zemdFd3hrU3FzckNVQnhMS1ByVG9YVEZ4TVVab1FMekZEQVhxN0pwdWtYYWpIamliVGFwSEhfUk1VbkVjXy1wRERwaFk2ZlpScllIc2VPWEtWdk5wUDFZMXhtRXNBXzV4OWhZTUpMdXhOdVc1SFlBZ1lQcWlibW1NMTNrMmRKdFZXZ3RiQ0hsX0ZhR2FBX0NnTWx1eDRzdw?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions -",
-          "ja": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions -"
+          "ja": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions -",
+          "zh": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions -",
+          "ko": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions -"
         },
         "src": {
           "en": "AP News",
-          "ja": "AP News"
+          "ja": "AP News",
+          "zh": "AP News",
+          "ko": "AP News"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVg4NTd2SGp6RlcyQVFUM1VvV29zZVpGV00tWjMwYUZfeW02Z0NkRW9lUGpESFdvRWVNcGozTUVCaFdDck04Z2xEQ0xGQ1dvUFk2ZGtubFVVQVNDSUFHaWVCMHN1NHpCR2g0d2RObG5wSFpNZk5vRFhEcEJBaGRPeU53T2dIdU50OFc4Rm5B?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch - BeInCrypto",
-          "ja": "Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch - BeInCrypto"
+          "ja": "Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch - BeInCrypto",
+          "zh": "Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch - BeInCrypto",
+          "ko": "Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch - BeInCrypto"
         },
         "src": {
           "en": "BeInCrypto",
-          "ja": "BeInCrypto"
+          "ja": "BeInCrypto",
+          "zh": "BeInCrypto",
+          "ko": "BeInCrypto"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWVgwemVJRTVMVUVoaEhJa3V0enNTajY3d3FYektDaGpQZjhIbDJvRlR3ZDdWZGxiQ0U2TTRramFKWG5yM3R1aG90Y180NXgxdUczaUU3eG1TVklKd3ZwZmZ3?oc=5"
       }
@@ -615,13 +875,25 @@
       "ja": {
         "name": "マーク・ザッカーバーグ",
         "role": "Meta CEO",
-        "location": "Unknown",
+        "location": "Las Vegas (CES)",
+        "status": "📍 Las Vegas (CES) · 利好 AI训练"
+      },
+      "zh": {
+        "name": "马克·扎克伯格",
+        "role": "Meta CEO",
+        "location": "Las Vegas (CES)",
         "status": "📍 Las Vegas (CES) · 利好 AI训练"
       },
       "en": {
         "name": "Mark Zuckerberg",
         "role": "Meta CEO",
-        "location": "Unknown",
+        "location": "Las Vegas (CES)",
+        "status": "📍 Las Vegas (CES) · 利好 AI训练"
+      },
+      "ko": {
+        "name": "마크 저커버그",
+        "role": "Meta CEO",
+        "location": "Las Vegas (CES)",
         "status": "📍 Las Vegas (CES) · 利好 AI训练"
       }
     },
@@ -629,95 +901,135 @@
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Mark Zuckerberg’s Meta launches new AI initiative after metaverse retreat - Crypto Briefing",
-          "ja": "Mark Zuckerberg’s Meta launches new AI initiative after metaverse retreat - Crypto Briefing"
+          "ja": "Mark Zuckerberg’s Meta launches new AI initiative after metaverse retreat - Crypto Briefing",
+          "zh": "Mark Zuckerberg’s Meta launches new AI initiative after metaverse retreat - Crypto Briefing",
+          "ko": "Mark Zuckerberg’s Meta launches new AI initiative after metaverse retreat - Crypto Briefing"
         },
         "src": {
           "en": "Crypto Briefing",
-          "ja": "Crypto Briefing"
+          "ja": "Crypto Briefing",
+          "zh": "Crypto Briefing",
+          "ko": "Crypto Briefing"
         },
         "time": {
           "en": "Mar 25",
-          "ja": "Mar 25"
+          "ja": "Mar 25",
+          "zh": "Mar 25",
+          "ko": "Mar 25"
         },
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMHpnWHFnNlh0S2Zsa2dCNW9XWjJVRk1TZmd6ZmpFNE1OTWVOaXdHSUdMVUxBS3FGQUhZb0RDd1RzU3k1TncyemJITWxPdHpGZ0MwVjRsREozdzVhbU5WSGZnWjdQWElTcGlJSDZEejREWE0?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge",
-          "ja": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge"
+          "ja": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge",
+          "zh": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge",
+          "ko": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge"
         },
         "src": {
           "en": "The Verge",
-          "ja": "The Verge"
+          "ja": "The Verge",
+          "zh": "The Verge",
+          "ko": "The Verge"
         },
         "time": {
           "en": "May 13",
-          "ja": "May 13"
+          "ja": "May 13",
+          "zh": "May 13",
+          "ko": "May 13"
         },
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0TjdKVENDeVpZTURCZVMtY1FuNTRUZ25hMkhfOE5CczJOdzFBWFpiRlZGOVUtZjl2RnFOc1R4U1ZZY1ZHbzhXbEdxanJ4a0ZJY04yRVFMT3FPZVRRem1oY3NQV3VqSFU3WG5iOQ?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "Jeremy Strong as Mark Zuckerberg in ‘The Social Reckoning’ Brings Out the Sick Burns: ‘Going to Clea",
-          "ja": "Jeremy Strong as Mark Zuckerberg in ‘The Social Reckoning’ Brings Out the Sick Burns: ‘Going to Clea"
+          "ja": "Jeremy Strong as Mark Zuckerberg in ‘The Social Reckoning’ Brings Out the Sick Burns: ‘Going to Clea",
+          "zh": "Jeremy Strong as Mark Zuckerberg in ‘The Social Reckoning’ Brings Out the Sick Burns: ‘Going to Clea",
+          "ko": "Jeremy Strong as Mark Zuckerberg in ‘The Social Reckoning’ Brings Out the Sick Burns: ‘Going to Clea"
         },
         "src": {
           "en": "Yahoo News Canada",
-          "ja": "Yahoo News Canada"
+          "ja": "Yahoo News Canada",
+          "zh": "Yahoo News Canada",
+          "ko": "Yahoo News Canada"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVJwQXEtWW14SktqbkR3Y090OU5oMDNmWko1SVgtTUttbi1Sbmo1MjBKRVFzMnhDVC02UnYzSUczTGk1WFBiTExPS3JWenMtT2pXSGY2NHdQSzk2NnhzRHlQWEFaZlNaOHFpVVBMM0NMU3NVRUFNMG9KeENLR3B6anVOSQ?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "'The Social Reckoning' – Jeremy Strong transforms into Mark Zuckerberg - USA Today",
-          "ja": "'The Social Reckoning' – Jeremy Strong transforms into Mark Zuckerberg - USA Today"
+          "ja": "'The Social Reckoning' – Jeremy Strong transforms into Mark Zuckerberg - USA Today",
+          "zh": "'The Social Reckoning' – Jeremy Strong transforms into Mark Zuckerberg - USA Today",
+          "ko": "'The Social Reckoning' – Jeremy Strong transforms into Mark Zuckerberg - USA Today"
         },
         "src": {
           "en": "USA Today",
-          "ja": "USA Today"
+          "ja": "USA Today",
+          "zh": "USA Today",
+          "ko": "USA Today"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEc1Ul9wM3VGbWZYV1ZzaGdJM3E3ckJCSjNxRWZjRXkzWk1TajRlT25nWndIbFozVHM3MmkxUVlXM1Q0dXd6NDBOclpLZFpacGlYa0lLOHNfUzZKU0tpdjVfM1NhcGl0X3pxZTdlYS1qWVVld0p0bnU1emtHY1pDVUx3ampxNG9ob3ZLZWZITVJwZXFUQXoyUGJ6akxrMUt3UkYyMXQ4T2tJNzJUbFRxcXZxX3hNTmNNQUFCczVFanJZcFky?oc=5"
       },
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "Jeremy Strong Nails Mark Zuckerberg’s Arrogance in ‘The Social Reckoning’ Trailer - Rolling Stone UK",
-          "ja": "Jeremy Strong Nails Mark Zuckerberg’s Arrogance in ‘The Social Reckoning’ Trailer - Rolling Stone UK"
+          "ja": "Jeremy Strong Nails Mark Zuckerberg’s Arrogance in ‘The Social Reckoning’ Trailer - Rolling Stone UK",
+          "zh": "Jeremy Strong Nails Mark Zuckerberg’s Arrogance in ‘The Social Reckoning’ Trailer - Rolling Stone UK",
+          "ko": "Jeremy Strong Nails Mark Zuckerberg’s Arrogance in ‘The Social Reckoning’ Trailer - Rolling Stone UK"
         },
         "src": {
           "en": "Rolling Stone UK",
-          "ja": "Rolling Stone UK"
+          "ja": "Rolling Stone UK",
+          "zh": "Rolling Stone UK",
+          "ko": "Rolling Stone UK"
         },
         "time": {
           "en": "Yesterday",
-          "ja": "Yesterday"
+          "ja": "Yesterday",
+          "zh": "Yesterday",
+          "ko": "Yesterday"
         },
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkRINFJqWHNWb29MNjByRjdINEJqY0VMMXBXeDZpeHp5NTNGZjUyRi15eFlicTZCeng5UHdvOU9sUjhYYkNIX2JaSHFXRTBDQXA3dzVJdHFYSkUtWWc5QkdteXJmWjRSV2pCT2phdzlkdURuZW9aUkJyRlh2azJMal9nSkhUdm1VOEpXeDAyVWVvZ2R6eE9VQ0FTSWVaMUFFTVZIOE1oOXE3VHYwZTVlRWlUaWlxNjNJdTV2TWRn?oc=5"
       }
@@ -736,13 +1048,25 @@
       "ja": {
         "name": "サンダー・ピチャイ",
         "role": "Google / Alphabet CEO",
-        "location": "Unknown",
+        "location": "Las Vegas (CES)",
+        "status": "📍 Las Vegas (CES) · 利好 存储芯片/HBM"
+      },
+      "zh": {
+        "name": "桑达尔·皮查伊",
+        "role": "Google & Alphabet CEO",
+        "location": "Las Vegas (CES)",
         "status": "📍 Las Vegas (CES) · 利好 存储芯片/HBM"
       },
       "en": {
         "name": "Sundar Pichai",
         "role": "Google & Alphabet CEO",
-        "location": "Unknown",
+        "location": "Las Vegas (CES)",
+        "status": "📍 Las Vegas (CES) · 利好 存储芯片/HBM"
+      },
+      "ko": {
+        "name": "순다르 피차이",
+        "role": "Google & Alphabet CEO",
+        "location": "Las Vegas (CES)",
         "status": "📍 Las Vegas (CES) · 利好 存储芯片/HBM"
       }
     },
@@ -750,95 +1074,135 @@
       {
         "topic": {
           "en": "AI Development",
-          "ja": "AI Development"
+          "ja": "AI Development",
+          "zh": "AI Development",
+          "ko": "AI Development"
         },
         "head": {
           "en": "How Sam Altman fooled Sundar Pichai — and pushed Google into cannibalizing itself - Fortune",
-          "ja": "How Sam Altman fooled Sundar Pichai — and pushed Google into cannibalizing itself - Fortune"
+          "ja": "How Sam Altman fooled Sundar Pichai — and pushed Google into cannibalizing itself - Fortune",
+          "zh": "How Sam Altman fooled Sundar Pichai — and pushed Google into cannibalizing itself - Fortune",
+          "ko": "How Sam Altman fooled Sundar Pichai — and pushed Google into cannibalizing itself - Fortune"
         },
         "src": {
           "en": "Fortune",
-          "ja": "Fortune"
+          "ja": "Fortune",
+          "zh": "Fortune",
+          "ko": "Fortune"
         },
         "time": {
           "en": "May 27",
-          "ja": "May 27"
+          "ja": "May 27",
+          "zh": "May 27",
+          "ko": "May 27"
         },
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3dTUl9kYWJsMG1Lc1F6NFROTlZfV3llbzg5S2dvUmhCSTV4WTkxSFRSRTdhUTAyemxzLW42QldWT09CcUlLQVN3Q0R2TDM5Y09XSVNCcEh0U0szU3NQcnhrMllfWmctT1hEN3RpaHc0bmlFdlViNU1ORDlhVFFuQnFJTnZMQ01MOW9pVUVybF9uWGNoM1VVYUtJY0VNbmM?oc=5"
       },
       {
         "topic": {
           "en": "Semiconductors",
-          "ja": "Semiconductors"
+          "ja": "Semiconductors",
+          "zh": "Semiconductors",
+          "ko": "Semiconductors"
         },
         "head": {
           "en": "Lokesh Pitches AP as Global Hub for Semiconductors and AI - Deccan Chronicle",
-          "ja": "Lokesh Pitches AP as Global Hub for Semiconductors and AI - Deccan Chronicle"
+          "ja": "Lokesh Pitches AP as Global Hub for Semiconductors and AI - Deccan Chronicle",
+          "zh": "Lokesh Pitches AP as Global Hub for Semiconductors and AI - Deccan Chronicle",
+          "ko": "Lokesh Pitches AP as Global Hub for Semiconductors and AI - Deccan Chronicle"
         },
         "src": {
           "en": "Deccan Chronicle",
-          "ja": "Deccan Chronicle"
+          "ja": "Deccan Chronicle",
+          "zh": "Deccan Chronicle",
+          "ko": "Deccan Chronicle"
         },
         "time": {
           "en": "Dec 10",
-          "ja": "Dec 10"
+          "ja": "Dec 10",
+          "zh": "Dec 10",
+          "ko": "Dec 10"
         },
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnpOU2dVbl9DbVpjbW04MFlHMGp2b2VLTlRJT0Z0Ql9LbjdGd054YTFGU1RudlZFRFpiM3NVd2NpcURxeXZUODZxZUVwd2tSUURvR3FhZm1NaG16TUhkcmgzd184M0Q2NVdhZlJZXzNSZHBkMUIxZlNSVVFKRF94SmJLZC1CODFoam1TNWdNV1dPQ3IzRmpjRU41UdIBoAFBVV95cUxObnU0czNtSnVnbV9FQnctZlM1ekZJV2dVd1RNenUtaU5qQXhSa2I4Z1ZiajE0QW9udmpBZ19xNmRUY2pnMGhLS29hdm55eEVmdlpublEzZVRHV1RWdEs1My1qNlVTQlZUX2hwWDItMFV5SXBCUjctd2hiVnc3OXdMM3BVR2wtbWdTemt4ZWM0VFUzVDFfaGl2R1A0X0RZVWZU?oc=5"
       },
       {
         "topic": {
           "en": "Investment",
-          "ja": "Investment"
+          "ja": "Investment",
+          "zh": "Investment",
+          "ko": "Investment"
         },
         "head": {
           "en": "Alphabet investor presentation: June 2026 - blog.google",
-          "ja": "Alphabet investor presentation: June 2026 - blog.google"
+          "ja": "Alphabet investor presentation: June 2026 - blog.google",
+          "zh": "Alphabet investor presentation: June 2026 - blog.google",
+          "ko": "Alphabet investor presentation: June 2026 - blog.google"
         },
         "src": {
           "en": "blog.google",
-          "ja": "blog.google"
+          "ja": "blog.google",
+          "zh": "blog.google",
+          "ko": "blog.google"
         },
         "time": {
           "en": "Jun 03",
-          "ja": "Jun 03"
+          "ja": "Jun 03",
+          "zh": "Jun 03",
+          "ko": "Jun 03"
         },
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XQXFkVU5kZmI0cFZOR2pxMVMtd0ZzMUl4dzJWajZxV216WFRuY05Gc1IxV3pKSHkwQmxIdFNvUVp6VVZVNll1MjFWRWQ3dEt5Vl9QbEQzUlVWWHEwdDFMdU1JbWxpZHpSZWNjY0VB?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-          "ja": "I/O 2026: Welcome to the agentic Gemini era - blog.google"
+          "ja": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+          "zh": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+          "ko": "I/O 2026: Welcome to the agentic Gemini era - blog.google"
         },
         "src": {
           "en": "blog.google",
-          "ja": "blog.google"
+          "ja": "blog.google",
+          "zh": "blog.google",
+          "ko": "blog.google"
         },
         "time": {
           "en": "May 19",
-          "ja": "May 19"
+          "ja": "May 19",
+          "zh": "May 19",
+          "ko": "May 19"
         },
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeDE4MmRwaEtnQUE4aWdHVENxbkpGWDZFRWhuWUdkRjZnNjhsUGtvVk4zYnc0NXdUcTJaOG5jV3piVHdBMjJock5JdVBPOWtuR2ZUMW5hUjZyNXl4RW5DSWpYZGRsUXpOcExBVA?oc=5"
       },
       {
         "topic": {
           "en": "AI News",
-          "ja": "AI News"
+          "ja": "AI News",
+          "zh": "AI News",
+          "ko": "AI News"
         },
         "head": {
           "en": "$1 billion for 20,000 Bay Area homes - blog.google",
-          "ja": "$1 billion for 20,000 Bay Area homes - blog.google"
+          "ja": "$1 billion for 20,000 Bay Area homes - blog.google",
+          "zh": "$1 billion for 20,000 Bay Area homes - blog.google",
+          "ko": "$1 billion for 20,000 Bay Area homes - blog.google"
         },
         "src": {
           "en": "blog.google",
-          "ja": "blog.google"
+          "ja": "blog.google",
+          "zh": "blog.google",
+          "ko": "blog.google"
         },
         "time": {
           "en": "Jun 18",
-          "ja": "Jun 18"
+          "ja": "Jun 18",
+          "zh": "Jun 18",
+          "ko": "Jun 18"
         },
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVld0RmoydkdscEg0NmZvendHVmJLNlFwWlpJdkQ4Z3pDU2cwM01UNEw3S2RIUkFQdVM5T0tVYTJjZmlUS2o4NjV6WHU4X0pqLUxyMnhnLUZzbjNiOGE0WXRaSlZuX01QVGFqS21ldl94WlV1MnNRa1BlQ0EyTGxBaXdVXzBabllhS1loeXJHdnhNd0pSNEZxd3YxcVR3Z3FaREIwdm9MYjd0Z2c?oc=5"
       }

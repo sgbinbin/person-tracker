@@ -23,17 +23,25 @@ function mergeRealData(leaderData, realData) {
   // Merge real data into LEADER_DATA
   for (const [personId, data] of Object.entries(realData)) {
     if (leaderData[personId]) {
-      // Update subject with real location/status
+      // Update subject with real location/status (skip if Unknown)
       if (data.subject) {
-        for (const lang of ['ja', 'en']) {
+        for (const lang of ['ja', 'zh', 'en', 'ko']) {
           if (data.subject[lang]) {
-            leaderData[personId].subject[lang].location = data.subject[lang].location;
-            leaderData[personId].subject[lang].status = data.subject[lang].status;
+            // Only overwrite location if real data has a valid location
+            const realLoc = data.subject[lang].location;
+            if (realLoc && realLoc !== 'Unknown') {
+              leaderData[personId].subject[lang].location = realLoc;
+            }
+            // Only overwrite status if real data has a valid status
+            const realStatus = data.subject[lang].status;
+            if (realStatus && !realStatus.includes('Unknown')) {
+              leaderData[personId].subject[lang].status = realStatus;
+            }
           }
         }
       }
       
-      // Update news with real news
+      // Update news with real news (only if we have news)
       if (data.news && data.news.length > 0) {
         leaderData[personId].news = data.news;
       }
