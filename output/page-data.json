@@ -1,0 +1,244 @@
+{
+  "jensen-huang": {
+    "person_id": "jensen-huang",
+    "timezone": -7,
+    "timezoneLabel": {
+      "ja": "SF PDT",
+      "en": "SF PDT"
+    },
+    "subject": {
+      "ja": {
+        "name": "ジェンスン・フアン",
+        "role": "NVIDIA 共同創業者 / CEO",
+        "location": "UK",
+        "status": "📍 UK · AI Development"
+      },
+      "en": {
+        "name": "Jensen Huang",
+        "role": "NVIDIA Founder / CEO",
+        "location": "UK",
+        "status": "📍 UK · AI Development"
+      }
+    },
+    "news": [
+      {
+        "topic": {
+          "en": "Semiconductors",
+          "ja": "Semiconductors"
+        },
+        "head": {
+          "en": "Jensen Huang's vision of the future! The acceleration of the 'Token economy' is driving a sharp expa",
+          "ja": "Jensen Huang's vision of the future! The acceleration of the 'Token economy' is driving a sharp expa"
+        },
+        "src": {
+          "en": "Moomoo",
+          "ja": "Moomoo"
+        },
+        "time": {
+          "en": "Mar 25",
+          "ja": "Mar 25"
+        },
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWJiTUJxRlFuLTVOTWJVYVk4UWhLS21qTFFjdU8wSDF2cGJIU1dySzk3M1FpV0t0QjBFSFA5a2U3TXRidVVuaFF0X1Q5VjFBY242Q3lKM0FCSV9oOXRDRTBFd3BCbGhMM1ROVXFTcEg2ZnM4SUIzRlNTMmtEMUJMSWlFeDQ3bG9ja3NmdjUwb1hRdmQ0X2JjSHpxNUJPcjJzazVBVzhhRjB2dlotRkpGWGhoSQ?oc=5"
+      },
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "Jensen Huang: The 100 Most Influential People of 2024 - Time Magazine",
+          "ja": "Jensen Huang: The 100 Most Influential People of 2024 - Time Magazine"
+        },
+        "src": {
+          "en": "Time Magazine",
+          "ja": "Time Magazine"
+        },
+        "time": {
+          "en": "Apr 17",
+          "ja": "Apr 17"
+        },
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUxuR2E2WkcyN0FyTFJoVFRvWVN6UVptak1WakgtTDN5SU1sVE1zNlN1WVZRZHNfR1R3RDAwSWxOUmM4YVZGZHY1T0R6bXM5bERmNHlXSkpocDA0bTdLWFdxSW1KUzYxbG0yTDducGotRXUtZWV1M1pQclk0cFpQemVHYTF5cnVhZ3B3eUhWeDZtQQ?oc=5"
+      },
+      {
+        "topic": {
+          "en": "Semiconductors",
+          "ja": "Semiconductors"
+        },
+        "head": {
+          "en": "Nvidia CEO Jensen Huang Just Announced a New Multitrillion-Dollar AI Collaboration With an Unexpecte",
+          "ja": "Nvidia CEO Jensen Huang Just Announced a New Multitrillion-Dollar AI Collaboration With an Unexpecte"
+        },
+        "src": {
+          "en": "inc.com",
+          "ja": "inc.com"
+        },
+        "time": {
+          "en": "2 days ago",
+          "ja": "2 days ago"
+        },
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnNWZkdyREFkckRHQU9oemNuSHlrYXNteGpDRE54NzVhTlNyYjA1WVZRTXpMYkhsM2lDWkJFeVFtZGlfbFhNdkJab29lXzAyX2FqdGFmOXZRVDFaM2RBOHFNQVNhelpuYko1X210VUk0VHRfOENzQXJkOE8yNDU0SGI1SEMyYmg5MFB4dlpLdGUwT09pUnRQQUFOV1g1eTFRTGVSOTRyTWJPdGJfN2RCaHl2RlVZWWc4c092TE85aUp1bjkzY3A3dzB0cXdDaXFWbjhhNGJvN2s2QQ?oc=5"
+      },
+      {
+        "topic": {
+          "en": "Semiconductors",
+          "ja": "Semiconductors"
+        },
+        "head": {
+          "en": "‘Buy Qualcomm Stock’ — Nvidia CEO Jensen Huang’s Endorsement Sends QCOM Higher - TipRanks",
+          "ja": "‘Buy Qualcomm Stock’ — Nvidia CEO Jensen Huang’s Endorsement Sends QCOM Higher - TipRanks"
+        },
+        "src": {
+          "en": "TipRanks",
+          "ja": "TipRanks"
+        },
+        "time": {
+          "en": "2 days ago",
+          "ja": "2 days ago"
+        },
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2M4OWF0Ti1XTm9XZHBnaXB3VlNZbUhwZ3k2bTVrbThfWXphU0FzRS1RSUtyQ2RBZ1pEbWNLNUY2RmVCZmVPdzFac1dZWDdCVVJIOWxsMEdLQjUwd3dJMXhMVVdUaVpKOHA4LUgtUGhZWUNPaUUxZGpuOVVxOXROdE5HWHkyT0oxNnZLamVFQmFTQ1ZZTlBsR3BsWWs2MGJubnZVUA?oc=5"
+      },
+      {
+        "topic": {
+          "en": "Semiconductors",
+          "ja": "Semiconductors"
+        },
+        "head": {
+          "en": "Why soaring memory prices could be Nvidia's next big advantage - Business Insider",
+          "ja": "Why soaring memory prices could be Nvidia's next big advantage - Business Insider"
+        },
+        "src": {
+          "en": "Business Insider",
+          "ja": "Business Insider"
+        },
+        "time": {
+          "en": "21 hours ago",
+          "ja": "21 hours ago"
+        },
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzFqcXMxRDlqcXROdXBtRVVPaGR1Vkw5cHU3WnNFalh6Z1BVTUFrR3RVaE1OZ0o2X3VhdmF5eXNGcEhOOE43eEdyeWRVSnRNRm5NR01ZakN6dlo3b2dvU2R2SVU5cGc1Q0lWSzJyVVU1MkgyVzJJazdaaEp6U3cwdVZvMA?oc=5"
+      }
+    ],
+    "tracked_at": "2026-06-12T06:03:04.518887Z",
+    "news_count": 10
+  },
+  "masayoshi-son": {
+    "person_id": "masayoshi-son",
+    "timezone": 9,
+    "timezoneLabel": {
+      "ja": "東京 JST",
+      "en": "Tokyo JST"
+    },
+    "subject": {
+      "ja": {
+        "name": "孫正義",
+        "role": "ソフトバンクグループ 代表",
+        "location": "Japan",
+        "status": "📍 Japan · AI Development"
+      },
+      "en": {
+        "name": "Masayoshi Son",
+        "role": "SoftBank Group Chairman & CEO",
+        "location": "Japan",
+        "status": "📍 Japan · AI Development"
+      }
+    },
+    "news": [
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus",
+          "ja": "SoftBank CEO Masayoshi Son Breaks 3 Year Twitter Hiatus to Promise 1 Million Coronavirus Tests - Bus"
+        },
+        "src": {
+          "en": "Business Insider",
+          "ja": "Business Insider"
+        },
+        "time": {
+          "en": "Mar 11",
+          "ja": "Mar 11"
+        },
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczRTODJuOEcxM0ZxVjFCbkdTRHFtTmVNa1FuUElFeldkMFk1YlUwMmRibTd6MWV1N0hEWV8tS19MN1FwakhWVi1TLU92a09xeGlza19LY2ZPc3RPOXBDUWEtVENLWEVZZFdQRlBkM2xSYXlOeVVGXzdHYTNkcENIcFZRSG8wVmZ4VklfYXppRllnQWJYM2V1OXJSZFdhZV92N0U0?oc=5"
+      },
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last w",
+          "ja": "Here’s why shares in SoftBank, no longer Japan’s most valuable, have fallen by a fifth in the last w"
+        },
+        "src": {
+          "en": "MarketWatch",
+          "ja": "MarketWatch"
+        },
+        "time": {
+          "en": "Yesterday",
+          "ja": "Yesterday"
+        },
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeGNic0tPRWNaOFJaQnh5VkdnVDBoM3lKWXAxRU9KaU9ELXZ6YzMwYUd2UFRSd2FSZF9DcEpmZTl6UlZwNll0b1k5TDhFZXV5eTJMOFBuckdyTUJ5N2hkdVFtYkx2Vjg4UjhyeVV1eUp5MFgwanMxZzljdFVLN1FtQXFYTjlOa2xMblZGR01SR0VYUEhnWEt4bUxjdE1NZGQ5bklUMkhFaEVhbnllOFZQRkFaNncybDZGUGQ1bW54ZGJ1ZzUtVFZTM1A0RWZtYWJaZTdpMUQwSmdqQQ?oc=5"
+      },
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "JPMorgan Chase emerges as SoftBank Group's top lender, surpassing Mizuho - Nikkei Asia",
+          "ja": "JPMorgan Chase emerges as SoftBank Group's top lender, surpassing Mizuho - Nikkei Asia"
+        },
+        "src": {
+          "en": "Nikkei Asia",
+          "ja": "Nikkei Asia"
+        },
+        "time": {
+          "en": "2 days ago",
+          "ja": "2 days ago"
+        },
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcngyLVZ0WElWbENLbVlwVm4xOXM4bC1KS05UX0hySkE0b3N6TWJkd0ItTWtoSFRrdkV6dHkwUlJ4c1VxdWxxSUJNUnRqNTRBTVlRenBkVGlJZV9vVVFjMS1LRnpxUGdKcm5nZW9MNlVsOU8wSXNCN1pIVTh1TmpCYTlNOXZSX2ZIRGsyUDloYTdsSHktWlU5ZERNbndaLUxWVWs3YkJpdDdvc1p0S2RaZXJDQQ?oc=5"
+      },
+      {
+        "topic": {
+          "en": "Semiconductors",
+          "ja": "Semiconductors"
+        },
+        "head": {
+          "en": "SoftBank stakes in Nvidia, TSMC show Son’s focus on AI gear - Fortune",
+          "ja": "SoftBank stakes in Nvidia, TSMC show Son’s focus on AI gear - Fortune"
+        },
+        "src": {
+          "en": "Fortune",
+          "ja": "Fortune"
+        },
+        "time": {
+          "en": "Aug 05",
+          "ja": "Aug 05"
+        },
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVJFTmZEZjIyQWFuSmRqSHRlcWpXYlpkNklwQU9qbngyRllKU3I0QUF5RWlwWEJPOGlKNm55cTcyUHNibzctcDVBVXZMTUh5RG5RZnNWOFRhTlJNRXh5TldzZGZ5Tk1LY2VwSXotS01tcXU2bW1vUjI0ell0d2tmX1pUV3BKLUFEb2dIZFZiMjV2QQ?oc=5"
+      },
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "Masayoshi Son - Forbes",
+          "ja": "Masayoshi Son - Forbes"
+        },
+        "src": {
+          "en": "Forbes",
+          "ja": "Forbes"
+        },
+        "time": {
+          "en": "Jul 28",
+          "ja": "Jul 28"
+        },
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zZ1lZbkZtNnpyMFY5TThpSG44d2x5MURwTWw5RnA2S2l0SW0yT3Q0Y1AxdFprSndtM0NvYWl2Uk5VMEF5SW5sb2pDdTZ1MUFFRzk3RW55SDM?oc=5"
+      }
+    ],
+    "tracked_at": "2026-06-12T06:03:05.759652Z",
+    "news_count": 14
+  }
+}
