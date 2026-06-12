@@ -11,32 +11,70 @@
         "name": "ジェンスン・フアン",
         "role": "NVIDIA 共同創業者 / CEO",
         "location": "South Korea",
-        "status": "📍 South Korea · Seoul · Meeting with Korean conglomerates"
+        "status": "Seoul, South Korea - SNU Visit and TV Appearance"
       },
       "en": {
         "name": "Jensen Huang",
         "role": "NVIDIA Founder / CEO",
         "location": "South Korea",
-        "status": "📍 South Korea · Seoul · Meeting with Korean conglomerates"
+        "status": "Seoul, South Korea - SNU Visit and TV Appearance"
       }
     },
     "news": [
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "Jensen Huang Returns to SNU After 18 Years, Surprised by the Number of Female Students",
+          "ja": "Jensen Huang Returns to SNU After 18 Years, Surprised by the Number of Female Students"
+        },
+        "src": {
+          "en": "Asia Economy",
+          "ja": "Asia Economy"
+        },
+        "time": {
+          "en": "4 hours ago",
+          "ja": "4 hours ago"
+        },
+        "url": "https://news.google.com/search?q=Jensen+Huang+SNU"
+      },
       {
         "topic": {
           "en": "AI Development",
           "ja": "AI Development"
         },
         "head": {
-          "en": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure",
-          "ja": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure"
+          "en": "Faker, fried chicken and AI: Jensen Huang enters his K-Variety era on You Quiz on the Block",
+          "ja": "Faker, fried chicken and AI: Jensen Huang enters his K-Variety era on You Quiz on the Block"
         },
         "src": {
-          "en": "Reuters",
-          "ja": "Reuters"
+          "en": "Yahoo News Malaysia",
+          "ja": "Yahoo News Malaysia"
         },
         "time": {
-          "en": "9 hours ago",
-          "ja": "9 hours ago"
+          "en": "3 hours ago",
+          "ja": "3 hours ago"
+        },
+        "url": "https://news.google.com/search?q=Jensen+Huang+You+Quiz"
+      },
+      {
+        "topic": {
+          "en": "Semiconductors",
+          "ja": "Semiconductors"
+        },
+        "head": {
+          "en": "Dream factory: how Nvidia South Korean AI deals stack up",
+          "ja": "Dream factory: how Nvidia South Korean AI deals stack up"
+        },
+        "src": {
+          "en": "South China Morning Post",
+          "ja": "South China Morning Post"
+        },
+        "time": {
+          "en": "6 hours ago",
+          "ja": "6 hours ago"
         },
         "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
       },
@@ -46,8 +84,27 @@
           "ja": "AI News"
         },
         "head": {
-          "en": "Why Jensen Huang wanted Korea to call him 'K-Jensen'",
-          "ja": "Why Jensen Huang wanted Korea to call him 'K-Jensen'"
+          "en": "You Quiz on the Block Hits Year Highest Ratings with Jensen Huang",
+          "ja": "You Quiz on the Block Hits Year Highest Ratings with Jensen Huang"
+        },
+        "src": {
+          "en": "Chosun Ilbo",
+          "ja": "Chosun Ilbo"
+        },
+        "time": {
+          "en": "Yesterday",
+          "ja": "Yesterday"
+        },
+        "url": "https://news.google.com/search?q=Jensen+Huang+You+Quiz"
+      },
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "Why Jensen Huang wanted Korea to call him K-Jensen",
+          "ja": "Why Jensen Huang wanted Korea to call him K-Jensen"
         },
         "src": {
           "en": "The Korea Herald",
@@ -57,67 +114,10 @@
           "en": "23 hours ago",
           "ja": "23 hours ago"
         },
-        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
-      },
-      {
-        "topic": {
-          "en": "AI News",
-          "ja": "AI News"
-        },
-        "head": {
-          "en": "Jensen Huang Commands Seoul Stage With Night of Street Theater",
-          "ja": "Jensen Huang Commands Seoul Stage With Night of Street Theater"
-        },
-        "src": {
-          "en": "Bloomberg",
-          "ja": "Bloomberg"
-        },
-        "time": {
-          "en": "5 days ago",
-          "ja": "5 days ago"
-        },
-        "url": "https://news.google.com/search?q=Jensen+Huang+Seoul"
-      },
-      {
-        "topic": {
-          "en": "Semiconductors",
-          "ja": "Semiconductors"
-        },
-        "head": {
-          "en": "Nvidia CEO says robotics is South Korea's next big sector",
-          "ja": "Nvidia CEO says robotics is South Korea's next big sector"
-        },
-        "src": {
-          "en": "Reuters",
-          "ja": "Reuters"
-        },
-        "time": {
-          "en": "Jun 05",
-          "ja": "Jun 05"
-        },
-        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
-      },
-      {
-        "topic": {
-          "en": "Semiconductors",
-          "ja": "Semiconductors"
-        },
-        "head": {
-          "en": "Nvidia's CEO says new Vera chip will use SK Hynix's memory chips",
-          "ja": "Nvidia's CEO says new Vera chip will use SK Hynix's memory chips"
-        },
-        "src": {
-          "en": "Fortune",
-          "ja": "Fortune"
-        },
-        "time": {
-          "en": "4 days ago",
-          "ja": "4 days ago"
-        },
-        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
+        "url": "https://news.google.com/search?q=Jensen+Huang+K-Jensen"
       }
     ],
-    "tracked_at": "2026-06-12T06:16:08.579819Z",
+    "tracked_at": "2026-06-12T06:24:20.915551+00:00",
     "news_count": 5
   },
   "masayoshi-son": {

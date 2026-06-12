@@ -3,43 +3,43 @@
   "name": "Jensen Huang",
   "name_local": "黄仁勲",
   "title": "NVIDIA CEO & Co-founder",
-  "tracked_at": "2026-06-12T06:16:08.579819Z",
+  "tracked_at": "2026-06-12T06:24:20.915551+00:00",
   "news_count": 5,
   "recent_news": [
     {
-      "title": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure",
-      "url": "https://news.google.com/search?q=Jensen+Huang+Korea",
-      "published": "Thu, 11 Jun 2026 20:48:00 GMT",
-      "source": "Reuters",
-      "snippet": "Jensen Huang's South Korea adventure continues..."
+      "title": "Jensen Huang Returns to SNU After 18 Years, Surprised by the Number of Female Students",
+      "url": "https://news.google.com/search?q=Jensen+Huang+SNU",
+      "published": "Fri, 12 Jun 2026 01:30:00 GMT",
+      "source": "Asia Economy",
+      "snippet": "Jensen Huang visited Seoul National University for the first time in 18 years"
     },
     {
-      "title": "Why Jensen Huang wanted Korea to call him 'K-Jensen'",
+      "title": "Faker, fried chicken and AI: Jensen Huang enters his K-Variety era on You Quiz on the Block",
+      "url": "https://news.google.com/search?q=Jensen+Huang+You+Quiz",
+      "published": "Fri, 12 Jun 2026 02:37:00 GMT",
+      "source": "Yahoo News Malaysia",
+      "snippet": "Jensen Huang makes Korean variety show debut"
+    },
+    {
+      "title": "Dream factory: how Nvidia South Korean AI deals stack up",
       "url": "https://news.google.com/search?q=Jensen+Huang+Korea",
+      "published": "Fri, 12 Jun 2026 00:00:13 GMT",
+      "source": "South China Morning Post",
+      "snippet": "Analysis of Nvidia partnerships in South Korea"
+    },
+    {
+      "title": "You Quiz on the Block Hits Year Highest Ratings with Jensen Huang",
+      "url": "https://news.google.com/search?q=Jensen+Huang+You+Quiz",
+      "published": "Thu, 11 Jun 2026 02:11:22 GMT",
+      "source": "Chosun Ilbo",
+      "snippet": "Korean variety show hits highest ratings with Jensen Huang appearance"
+    },
+    {
+      "title": "Why Jensen Huang wanted Korea to call him K-Jensen",
+      "url": "https://news.google.com/search?q=Jensen+Huang+K-Jensen",
       "published": "Thu, 11 Jun 2026 06:53:57 GMT",
       "source": "The Korea Herald",
-      "snippet": "Nvidia CEO Jensen Huang asked Koreans to call him 'K-Jensen'..."
-    },
-    {
-      "title": "Jensen Huang Commands Seoul Stage With Night of Street Theater",
-      "url": "https://news.google.com/search?q=Jensen+Huang+Seoul",
-      "published": "Sat, 06 Jun 2026 07:19:30 GMT",
-      "source": "Bloomberg",
-      "snippet": "Jensen Huang commands Seoul stage..."
-    },
-    {
-      "title": "Nvidia CEO says robotics is South Korea's next big sector",
-      "url": "https://news.google.com/search?q=Jensen+Huang+Korea",
-      "published": "Fri, 05 Jun 2026 04:59:12 GMT",
-      "source": "Reuters",
-      "snippet": "Nvidia CEO says robotics is South Korea's next big sector..."
-    },
-    {
-      "title": "Nvidia's CEO says new Vera chip will use SK Hynix's memory chips",
-      "url": "https://news.google.com/search?q=Jensen+Huang+Korea",
-      "published": "Sun, 07 Jun 2026 21:38:00 GMT",
-      "source": "Fortune",
-      "snippet": "Nvidia's CEO says new Vera chip will use SK Hynix's memory chips..."
+      "snippet": "Jensen Huang asked Koreans to call him K-Jensen during Seoul visit"
     }
   ],
   "insights": {
@@ -53,5 +53,5 @@
       "Partnership"
     ]
   },
-  "status": "📍 South Korea · Seoul · Meeting with Korean conglomerates"
+  "status": "Seoul, South Korea - SNU Visit and TV Appearance"
 }
