@@ -111,6 +111,46 @@ def convert_to_page_format(person_id: str) -> dict:
             "ko": "손정의",
             "role_ja": "ソフトバンクグループ 代表",
             "role_en": "SoftBank Group Chairman & CEO"
+        },
+        "elon-musk": {
+            "ja": "イーロン・マスク",
+            "zh": "埃隆·马斯克",
+            "en": "Elon Musk",
+            "ko": "일론 머스크",
+            "role_ja": "Tesla / SpaceX / xAI CEO",
+            "role_en": "Tesla, SpaceX & xAI CEO"
+        },
+        "sam-altman": {
+            "ja": "サム・アルトマン",
+            "zh": "萨姆·阿尔特曼",
+            "en": "Sam Altman",
+            "ko": "샘 올트먼",
+            "role_ja": "OpenAI CEO",
+            "role_en": "OpenAI CEO"
+        },
+        "dario-amodei": {
+            "ja": "ダリオ・アモデイ",
+            "zh": "达里奥·阿莫德伊",
+            "en": "Dario Amodei",
+            "ko": "다리오 아모데이",
+            "role_ja": "Anthropic CEO",
+            "role_en": "Anthropic CEO"
+        },
+        "mark-zuckerberg": {
+            "ja": "マーク・ザッカーバーグ",
+            "zh": "马克·扎克伯格",
+            "en": "Mark Zuckerberg",
+            "ko": "마크 저커버그",
+            "role_ja": "Meta CEO",
+            "role_en": "Meta CEO"
+        },
+        "sundar-pichai": {
+            "ja": "サンダー・ピチャイ",
+            "zh": "桑达尔·皮查伊",
+            "en": "Sundar Pichai",
+            "ko": "순다르 피차이",
+            "role_ja": "Google / Alphabet CEO",
+            "role_en": "Google & Alphabet CEO"
         }
     }
     
@@ -146,7 +186,7 @@ def convert_to_page_format(person_id: str) -> dict:
 
 def generate_page_data():
     """Generate data for the AI Footprints page"""
-    people = ["jensen-huang", "masayoshi-son"]
+    people = ["jensen-huang", "masayoshi-son", "elon-musk", "sam-altman", "dario-amodei", "mark-zuckerberg", "sundar-pichai"]
     
     page_data = {}
     for person_id in people:

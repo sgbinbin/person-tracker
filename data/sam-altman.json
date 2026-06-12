@@ -1,0 +1,137 @@
+{
+  "person_id": "sam-altman",
+  "name": "Sam Altman",
+  "name_local": "サム・アルトマン",
+  "title": "OpenAI CEO",
+  "tracked_at": "2026-06-12T08:43:49.020726Z",
+  "news_count": 15,
+  "recent_news": [
+    {
+      "title": "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is Still Wiping Out 11,000 Jobs Per Month - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmVKQmVnQWhqSDBtcUd3NVlvb25jakpPUGNzbThsT1EydHBOb0hNTmZuQWMyZk5RbDNySS1mNkU0ZS1HRmM2WUVsN3VvWHM1T3h6d3ViV0wyWnZyNjVTOGxQczNkODA3WndlT1JDYUoyREVlcEV1Y2hOQlVOWGdFS0FzZGRDbG4tby1ma2JoaklOY21fZFNnUENFbGtuZWY4?oc=5",
+      "published": "Wed, 10 Jun 2026 16:21:12 GMT",
+      "source": "Yahoo Finance",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmVKQmVnQWhqSDBtcUd3NVlvb25jakpPUGNzbThsT1EydHBOb0hNTmZuQWMyZk5RbDNySS1mNkU0ZS1HRmM2WUVsN3VvWHM1T3h6d3ViV0wyWnZyNjVTOGxQczNkODA3WndlT1JDYUoyREVlcEV1Y2hOQlVOWGdFS0FzZGRDbG4tby1ma2JoaklOY21fZFNnUENFbGtuZWY4?oc=5\" target=\"_blank\">Billionaire"
+    },
+    {
+      "title": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5",
+      "published": "Wed, 10 Jun 2026 15:30:00 GMT",
+      "source": "The Information",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5\" targe"
+    },
+    {
+      "title": "OpenAI files for US IPO as AI rivals race to public markets - The Journal Record",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTENOUVppUlNvOGFNS2diZmNCbHNsTkhkSUpBYWY5cmtFV0l3VmJmSjdCZ251Q0RYWGFkaHU3R29Na1JiV2hRVlZ6ZnotdENKSVc1YXlUTHZ0RUdEVWt2LXU5ZzgwRjhhZ01feUFDQmVFR2JRUWlYRVNDTHoxS2V1aWZIUEVCTjdXQ3pRYVJkMA?oc=5",
+      "published": "Tue, 09 Jun 2026 19:20:00 GMT",
+      "source": "The Journal Record",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQTENOUVppUlNvOGFNS2diZmNCbHNsTkhkSUpBYWY5cmtFV0l3VmJmSjdCZ251Q0RYWGFkaHU3R29Na1JiV2hRVlZ6ZnotdENKSVc1YXlUTHZ0RUdEVWt2LXU5ZzgwRjhhZ01feUFDQmVFR2JRUWlYRVNDTHoxS2V1aWZIUEVCTjdXQ3pRYVJkMA?oc=5\" target=\"_blank\">OpenAI files for US IPO as AI riv"
+    },
+    {
+      "title": "Sam Altman visits Washington for White House and Hill meetings - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjUwaFczanR4RXE5MVVuOW1SZ0NUcDZXcTczRlByc0lLQzE1YWZXVFduN2RjWnlCZzVaX1JoSFNLMXNjZWFnVHN4VHc4UlB4bTVCSFo5R2pwSmYtdUk3RTE5SHVqaURzd1UyZ3ZEaUVleHpRUlpFcE9mcDhxQXVnbXNpWF9UZ0hRX1Rzc28tSQ?oc=5",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "source": "Politico",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjUwaFczanR4RXE5MVVuOW1SZ0NUcDZXcTczRlByc0lLQzE1YWZXVFduN2RjWnlCZzVaX1JoSFNLMXNjZWFnVHN4VHc4UlB4bTVCSFo5R2pwSmYtdUk3RTE5SHVqaURzd1UyZ3ZEaUVleHpRUlpFcE9mcDhxQXVnbXNpWF9UZ0hRX1Rzc28tSQ?oc=5\" target=\"_blank\">Sam Altman visits Washington for "
+    },
+    {
+      "title": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGdwSWplR3R4SDE0OWVyVm1lcDRNbllQQklGbVJ2ZkhnNkw0ZjNueUhTZmhvRXRiY2RXczhQQV93WkhCdkU5VHBZcVZnQmdZY2J6R0VrOVhZRTJ5dFJrOXBfX3Z5MEUzS3lnbG9CV3UwcTRaaGF6dlhVQU91QTNKTUtOSXllcE9DS0hTQmNWSTlXVDdkd2FNT2lOZUVFMWhGeE1JUWFZVUlUcXM2Rkd2ODVXbnQwTWtTSzE5WmFPZlV2TkQ5NEE?oc=5",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "source": "The Conversation",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGdwSWplR3R4SDE0OWVyVm1lcDRNbllQQklGbVJ2ZkhnNkw0ZjNueUhTZmhvRXRiY2RXczhQQV93WkhCdkU5VHBZcVZnQmdZY2J6R0VrOVhZRTJ5dFJrOXBfX3Z5MEUzS3lnbG9CV3UwcTRaaGF6dlhVQU91QTNKTUtOSXllcE9DS0hTQmNWSTlXVDdkd2FNT2lOZUVFMWhGeE1JUWFZVUlUcXM2Rkd2ODVXbnQwTWtTSz"
+    },
+    {
+      "title": "OpenAI’s Sam Altman to hold AI strategy talks with Samsung executives in South Korea (OAI) - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOeXZ6U3g0WFpJSWMzZFc2NC1IVTdvem4xTUl3N25PRlNsVWhSOHhoeDA0RHJVU2I5a0t6aHJ0d3dYRUgwbkYzWUtWVkdZV1d5NExpOV9vbXUtOE1xemtaTEFid1hiRHhmQ2VCbEtpaFdCcDIzY2s1alpLdXpWNF9zY1Q1NkUyX2lxUWVNMGl2NEFJX1FJN1ctTkFQcGFlOHVvYzFGY1BMbVJWa283VEpzQzJ5V0VvYUFiQTdtc0dWZmpsRVVMRDRuaTNSRHJKd09PNVdRTFhPNEdyTkhQQnBENzVHWWFZem1HNWhfV2Yxampia2pDTER3QjNMYnpyeUxvcGdZZ2dLN3JFQTBYbDR2Zm85UWtyZHNxaVBwem0yaF8zbi1ZdkVkMHRXdWRHOHVISlB2LTRZeHFsNHBtVDh2bE9ONG9pbFVwVXY3Y2lvYXFsTlpXSFpHNUI1TTdDbjlSamd6MndmWHlLSk1HcjVZ?oc=5",
+      "published": "Thu, 11 Jun 2026 19:58:08 GMT",
+      "source": "MSN",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wJBVV95cUxOeXZ6U3g0WFpJSWMzZFc2NC1IVTdvem4xTUl3N25PRlNsVWhSOHhoeDA0RHJVU2I5a0t6aHJ0d3dYRUgwbkYzWUtWVkdZV1d5NExpOV9vbXUtOE1xemtaTEFid1hiRHhmQ2VCbEtpaFdCcDIzY2s1alpLdXpWNF9zY1Q1NkUyX2lxUWVNMGl2NEFJX1FJN1ctTkFQcGFlOHVvYzFGY1BMbVJWa283VEpzQzJ5V0VvYUFiQT"
+    },
+    {
+      "title": "As Sam Altman's OpenAI bans hundreds of ChatGPT accounts, it warns Americans: China is trying to influenc - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYzRRQUlaaFplazl3M3h2N1NPMVpUZ2QtN0dsZnVzbjVXTFlBUVlvWGVCNmdVN2F3MmpfajFhTU1rSks5VWFkdVBMYm5hQUJ5M2FOTlc2eFQzZmw3d3NnaTBHanYycWRNb1BwNzBmYmxHeWd2Q0dmdEpLbDBTa0xJSnl4a0V3NmRzS29PMjkxc0NDSHdyV20xSi1JdGdsdHI3NGxvMWpvQnVvNng3NkktN2ZTVG5QcV9WT1NSOV81Uzdib3F6NkZ4b09ma19CcGJkY2J3cVhxWW5iX1pPSnhYTlJaaWZVYVpyS1AyRmNTMGswLXdrX0xRLTd6VHRVZURQY1FFYjN1RVVGVFAwc1MtSHg3TERsekNuZFYybkZTc3QtOVlaZzl5QmJPcnhud9IBswJBVV95cUxObnRvN0owU05aeFNQNU1RS3pURkxqeUE3VUR1eGZPaHM1X1pLMnlMWDhYS3hFWnZDd1RodjllaEZUdXIyaGNCWTl3VHJ2amhUSFZyX3RVZWFwMW5ScUY3M2JaNTU0dE5MN0MyVldkYzR0d3VCdlRqZ1dDOXE5TEp6c3JuMEtDTEwwWXJ5Y0kwX09lSExKS3pzN29TVlF6SHdud25aM3JzVTQ5Rm1oV20xLTVGY21SY3preGNXWXFMNHZkUUlhcGZIVl9RZ0p6MC11NVFkeFZieDJCN1lQUXBEZWFuZ250d1I2YU9zekdTWUlWelFPMUlyYjRSSG5qaVZwd1FjWFJTSER6Yk1OMlVHVW1VZF9XY0NRSlFidEJUUW9TaW84d05qbTkxcHFXVTJJVjJ3?oc=5",
+      "published": "Thu, 11 Jun 2026 19:36:00 GMT",
+      "source": "The Times of India",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOYzRRQUlaaFplazl3M3h2N1NPMVpUZ2QtN0dsZnVzbjVXTFlBUVlvWGVCNmdVN2F3MmpfajFhTU1rSks5VWFkdVBMYm5hQUJ5M2FOTlc2eFQzZmw3d3NnaTBHanYycWRNb1BwNzBmYmxHeWd2Q0dmdEpLbDBTa0xJSnl4a0V3NmRzS29PMjkxc0NDSHdyV20xSi1JdGdsdHI3NGxvMWpvQnVvNng3NkktN2ZTVG5QcV9WT1"
+    },
+    {
+      "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlVTRnQ3T2NjdWxIel9EdEhPRjdpY043TWhsdm4za0F1aWMxZnFuMGxzek1EU0h1c1ZTUnFPcGRjcHJBaEZZQXU5Y2dWRzJ4TV9Md21WNExvVTNZaDBRVUdPeHh2Mi1HTlBMdDRSVkRqbFpWWWhORU1MSDFMR3hUUlBJMXpBTUJ0b0JQTDFRektvN1hWSDJGY0tvWXZmZw?oc=5",
+      "published": "Thu, 11 Jun 2026 17:17:00 GMT",
+      "source": "The Guardian",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTlVTRnQ3T2NjdWxIel9EdEhPRjdpY043TWhsdm4za0F1aWMxZnFuMGxzek1EU0h1c1ZTUnFPcGRjcHJBaEZZQXU5Y2dWRzJ4TV9Md21WNExvVTNZaDBRVUdPeHh2Mi1HTlBMdDRSVkRqbFpWWWhORU1MSDFMR3hUUlBJMXpBTUJ0b0JQTDFRektvN1hWSDJGY0tvWXZmZw?oc=5\" target=\"_blank\">Canadian moth"
+    },
+    {
+      "title": "OpenAI Could Soon Drop Prices To Compete With Anthropic, Report Says - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQWVqaVFxU2Q0WXduc1J4Tk1UY2pQZnNMMmVZZGdjLWN1RU14VWVBeHJEdnlESEFvWW1SdlM4SGtQWXUya1ZkdHF6MmxnUWMycVo3cVBieUdvcFpUSUtkcGpROGZiMU1mT1ZsVUNhOVlGdmtYRFVYaTNKTkRXMWY3aTFManhnOW83Qmk2WVRJM2ZUb0Zpb2JOSUI3bk9pTldrb09pZjRKQ1Q3OHhNYXlxaE1RcWdwQjBhdzZybmRQTmtMZ05RdG9aLXhYV3E2VW1iemc3WjNiVQ?oc=5",
+      "published": "Thu, 11 Jun 2026 12:10:35 GMT",
+      "source": "Forbes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQWVqaVFxU2Q0WXduc1J4Tk1UY2pQZnNMMmVZZGdjLWN1RU14VWVBeHJEdnlESEFvWW1SdlM4SGtQWXUya1ZkdHF6MmxnUWMycVo3cVBieUdvcFpUSUtkcGpROGZiMU1mT1ZsVUNhOVlGdmtYRFVYaTNKTkRXMWY3aTFManhnOW83Qmk2WVRJM2ZUb0Zpb2JOSUI3bk9pTldrb09pZjRKQ1Q3OHhNYXlxaE1RcWdwQjBhdz"
+    },
+    {
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVmdMa0RybEpINXVxTUxTSkJWRWNnY3pDUXN2ZDAyaW53dkRvVG1QM3hQSWt4aFlQTnJwWkVoYUdzd3F3cWFybHA5cE9feHQyTlhHc0pDaFhlMVVTWTBRU3hLRHlWamFsQldzTnpHOWRXcjREbG9UcTRTRGZsLTFhYTlnQWQ4OFpUTEZkR21mR3VsdGpRbmloN01vT0ZxTGl6dEtkM09fZS1n?oc=5",
+      "published": "Thu, 11 Jun 2026 03:24:00 GMT",
+      "source": "CNBC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTVaQ2JmSTJ2dG1yVC1nSHpNbWJqOVlUV2dmMW1vZ2d6VmlFN1ZDRTFOVS04SDZQM01CcDZIRS1WWDluTE5hYzJBV25NZlBKMndtTmRHRG5DZmphLWEydEhmM0g5cEVHcjlvNTBueWpZRmFpcDNPekV2OU9hWV9BMzJsd3NLNWEwcFpydDFQX1JZc0I2Xy1ZcktIZDlxV2RramNQT1F5WnXSAa4BQVVfeXFMTTA0akxwVm"
+    }
+  ],
+  "analysis": {
+    "key_quotes": [
+      "oc=5\" target=\"_blank\">Billionaire",
+      "Billionaire Sam Altman Says OpenAI Was ‘Pretty Wrong’ About AI Jobs, But Goldman Sachs Warns AI is Still Wiping Out 11,000 Jobs Per Month - Yahoo Finance",
+      "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information"
+    ],
+    "market_impacts": [
+      {
+        "sector": "三星",
+        "impact": "关注",
+        "confidence": 0.85,
+        "mentions": 2,
+        "keywords": [
+          "samsung"
+        ]
+      },
+      {
+        "sector": "晶圆厂",
+        "impact": "利好",
+        "confidence": 0.85,
+        "mentions": 1,
+        "keywords": [
+          "fab"
+        ]
+      },
+      {
+        "sector": "制裁",
+        "impact": "利空",
+        "confidence": 0.8,
+        "mentions": 2,
+        "keywords": [
+          "ban"
+        ]
+      },
+      {
+        "sector": "Naver",
+        "impact": "关注",
+        "confidence": 0.8,
+        "mentions": 1,
+        "keywords": [
+          "naver"
+        ]
+      },
+      {
+        "sector": "Google",
+        "impact": "关注",
+        "confidence": 0.7,
+        "mentions": 15,
+        "keywords": [
+          "google"
+        ]
+      }
+    ],
+    "inferred_location": "Suwon/Seoul (Samsung)",
+    "location_confidence": 0.5
+  },
+  "status": "📍 Suwon/Seoul (Samsung) · 关注 三星"
+}

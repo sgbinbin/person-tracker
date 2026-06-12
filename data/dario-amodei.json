@@ -1,0 +1,137 @@
+{
+  "person_id": "dario-amodei",
+  "name": "Dario Amodei",
+  "name_local": "ダリオ・アモデイ",
+  "title": "Anthropic CEO",
+  "tracked_at": "2026-06-12T08:43:50.984279Z",
+  "news_count": 19,
+  "recent_news": [
+    {
+      "title": "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXlPZU1ZbWNsWGllMk9hMmNvdU5DSVZ0LWswSVhYREtnWEd4eGZ0MDJJLUstbzN0Y1E0UTJaVG5LRkpRekpGcXdPcVRFVnJCdlNNWnZEbWdKamg0MHlyVktqcEtvclUtOWRGdU5jV09qdXNuTkM0M1poNUNTaVpKNjdMa056OUEwZlhzSmE1UWVFb3ZmTl9TQ2NHdXN2cnY5VzN1ZDdZckROMGM1NkRvMU9wUlo3eWtmZmZlcjJKN2FSbloxVGdrdjRJTQ?oc=5",
+      "published": "Wed, 22 Jan 2025 08:00:00 GMT",
+      "source": "Ars Technica",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXlPZU1ZbWNsWGllMk9hMmNvdU5DSVZ0LWswSVhYREtnWEd4eGZ0MDJJLUstbzN0Y1E0UTJaVG5LRkpRekpGcXdPcVRFVnJCdlNNWnZEbWdKamg0MHlyVktqcEtvclUtOWRGdU5jV09qdXNuTkM0M1poNUNTaVpKNjdMa056OUEwZlhzSmE1UWVFb3ZmTl9TQ2NHdXN2cnY5VzN1ZDdZckROMGM1NkRvMU9wUlo3eWtmZm"
+    },
+    {
+      "title": "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUNNUU9uZTlWcUozeDlQRTlpcmprWUdrMWlyaVRFb1dXeGtrdTFpTU9HcEZjNVVIOERNSGhXVFhsRG15N2JlczJDVjVoZktiSEpNRUN6aWc4VGtSYnVSRkQwajZJNFR4WFhVVDJnMENqZ3Y4NjdGZl9OZW1IMEp5WXZ0Q043dkNkU24wcXJha2JPWDNGTURVc3BxNExFNjFwUUY1R25KNVc?oc=5",
+      "published": "Wed, 10 Jun 2026 22:38:00 GMT",
+      "source": "Business Insider",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUNNUU9uZTlWcUozeDlQRTlpcmprWUdrMWlyaVRFb1dXeGtrdTFpTU9HcEZjNVVIOERNSGhXVFhsRG15N2JlczJDVjVoZktiSEpNRUN6aWc4VGtSYnVSRkQwajZJNFR4WFhVVDJnMENqZ3Y4NjdGZl9OZW1IMEp5WXZ0Q043dkNkU24wcXJha2JPWDNGTURVc3BxNExFNjFwUUY1R25KNVc?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "Anthropic backs mandatory testing for frontier AI models - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVl9QRy0tRE9Qb25zemdFd3hrU3FzckNVQnhMS1ByVG9YVEZ4TVVab1FMekZEQVhxN0pwdWtYYWpIamliVGFwSEhfUk1VbkVjXy1wRERwaFk2ZlpScllIc2VPWEtWdk5wUDFZMXhtRXNBXzV4OWhZTUpMdXhOdVc1SFlBZ1lQcWlibW1NMTNrMmRKdFZXZ3RiQ0hsX0ZhR2FBX0NnTWx1eDRzdw?oc=5",
+      "published": "Wed, 10 Jun 2026 21:56:05 GMT",
+      "source": "Politico",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVl9QRy0tRE9Qb25zemdFd3hrU3FzckNVQnhMS1ByVG9YVEZ4TVVab1FMekZEQVhxN0pwdWtYYWpIamliVGFwSEhfUk1VbkVjXy1wRERwaFk2ZlpScllIc2VPWEtWdk5wUDFZMXhtRXNBXzV4OWhZTUpMdXhOdVc1SFlBZ1lQcWlibW1NMTNrMmRKdFZXZ3RiQ0hsX0ZhR2FBX0NnTWx1eDRzdw?oc=5\" targe"
+    },
+    {
+      "title": "Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVg4NTd2SGp6RlcyQVFUM1VvV29zZVpGV00tWjMwYUZfeW02Z0NkRW9lUGpESFdvRWVNcGozTUVCaFdDck04Z2xEQ0xGQ1dvUFk2ZGtubFVVQVNDSUFHaWVCMHN1NHpCR2g0d2RObG5wSFpNZk5vRFhEcEJBaGRPeU53T2dIdU50OFc4Rm5B?oc=5",
+      "published": "Wed, 10 Jun 2026 21:47:00 GMT",
+      "source": "AP News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVg4NTd2SGp6RlcyQVFUM1VvV29zZVpGV00tWjMwYUZfeW02Z0NkRW9lUGpESFdvRWVNcGozTUVCaFdDck04Z2xEQ0xGQ1dvUFk2ZGtubFVVQVNDSUFHaWVCMHN1NHpCR2g0d2RObG5wSFpNZk5vRFhEcEJBaGRPeU53T2dIdU50OFc4Rm5B?oc=5\" target=\"_blank\">Anthropic pledges $200 million to r"
+    },
+    {
+      "title": "Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWVgwemVJRTVMVUVoaEhJa3V0enNTajY3d3FYektDaGpQZjhIbDJvRlR3ZDdWZGxiQ0U2TTRramFKWG5yM3R1aG90Y180NXgxdUczaUU3eG1TVklKd3ZwZmZ3?oc=5",
+      "published": "Wed, 10 Jun 2026 20:06:00 GMT",
+      "source": "BeInCrypto",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWVgwemVJRTVMVUVoaEhJa3V0enNTajY3d3FYektDaGpQZjhIbDJvRlR3ZDdWZGxiQ0U2TTRramFKWG5yM3R1aG90Y180NXgxdUczaUU3eG1TVklKd3ZwZmZ3?oc=5\" target=\"_blank\">Dario Amodei Demands Power to Block Unsafe AI a Day After Claude Fable 5 Launch</a>&nbsp;&nbsp;"
+    },
+    {
+      "title": "Anthropic CEO Says Government Should Be Able to Block New Models - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3k5WktPaUwtTDQ0SE1TLUtCaEpCWnlMSjFERktxYjNScE0xZU44SDM5S3IzQ29ZNXdwMDlJOU5wYmJRdHFFZ0ZIbmQ0dWRIRi1XODRfRFlyQW04NnVYY2F4NnlEaWgtRXJHLTgycmZzeTkwY2dobW9rVkpNcHAtMW44bms1Rm1pZHBFUElkTENpMGxRYmVieXNNTmk3V3E5NFczWXFPQ3g4RHl6b1dhOExMSHN1Zw?oc=5",
+      "published": "Wed, 10 Jun 2026 18:31:57 GMT",
+      "source": "Bloomberg",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3k5WktPaUwtTDQ0SE1TLUtCaEpCWnlMSjFERktxYjNScE0xZU44SDM5S3IzQ29ZNXdwMDlJOU5wYmJRdHFFZ0ZIbmQ0dWRIRi1XODRfRFlyQW04NnVYY2F4NnlEaWgtRXJHLTgycmZzeTkwY2dobW9rVkpNcHAtMW44bms1Rm1pZHBFUElkTENpMGxRYmVieXNNTmk3V3E5NFczWXFPQ3g4RHl6b1dhOExMSHN1Zw?oc="
+    },
+    {
+      "title": "Anthropic CEO Says He Doesn’t Know How Claude Was Used In Iran School Bombing - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0tjdUZtbkhpdDRnNkt0V0JHUEdUa3NKZTc2X04xU2JaZE1mTE0xbDA5QkRZZGF5MHhtUEZkdzVJd2pLSWNST2xHT3paOS1Xa29ZZGREc01RWlVZLUEwYmRESjNaZVZoX1VhaHUxTk5RekpQM3pZeFBKMlNhWC1PcGFueXpsVmZrUTF2dHBLTjBoQ1pIRzE1Z3FwNWg2THdzSlYyRmZVZUJQS3Y5T0U1cFlFZTdTb0M2ZE5hUUdqcDdodUJfOERuYXVqSXByeEFHWWpF?oc=5",
+      "published": "Wed, 10 Jun 2026 16:41:11 GMT",
+      "source": "Forbes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0tjdUZtbkhpdDRnNkt0V0JHUEdUa3NKZTc2X04xU2JaZE1mTE0xbDA5QkRZZGF5MHhtUEZkdzVJd2pLSWNST2xHT3paOS1Xa29ZZGREc01RWlVZLUEwYmRESjNaZVZoX1VhaHUxTk5RekpQM3pZeFBKMlNhWC1PcGFueXpsVmZrUTF2dHBLTjBoQ1pIRzE1Z3FwNWg2THdzSlYyRmZVZUJQS3Y5T0U1cFlFZTdTb0M2ZE"
+    },
+    {
+      "title": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5BR0NGU0JBR0tIWHdiTDZPdzA1SENPWWJMbW96dlNxWkxERTZQb29tUmZpZHp0NGd1YTdEQXRrNDhXZDlFdFg0eWF0cHRoUVlkQXdnTU92TzVjNlNsendsaEljSDJEZktjWkhyMVhBM21oSnpIN0JxZ0J0UzRVaWhCWnAyMWRfb29RYXBNeTRoOG44TUVkZ0luZUfSAaIBQVVfeXFMTS1NY3hSdlRIRXFhZHJCT0xCMmFMc1BqSXgyZGtnVzFtemZ0QThEM2tYakcyaE5iWUUyT0d2Z3FCNlVfQ0tkWUxBdkhkdzRsdE5CLUZhUENEMHprQUo5Mko4WDNCZzF4SmtZOHowbDM0a25ManhUbXg3WTZxRzRxNnVjVkN6cHdJYjdJcXVZcVVIbG5pbF9Tclh0Z3NuLUktS0dR?oc=5",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "source": "CNBC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5BR0NGU0JBR0tIWHdiTDZPdzA1SENPWWJMbW96dlNxWkxERTZQb29tUmZpZHp0NGd1YTdEQXRrNDhXZDlFdFg0eWF0cHRoUVlkQXdnTU92TzVjNlNsendsaEljSDJEZktjWkhyMVhBM21oSnpIN0JxZ0J0UzRVaWhCWnAyMWRfb29RYXBNeTRoOG44TUVkZ0luZUfSAaIBQVVfeXFMTS1NY3hSdlRIRXFhZHJCT0xCMm"
+    },
+    {
+      "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUxmZWtsN04tdnA4TTN1RHNQVEhxTV8ycG9tNktGOG0xU2llRDdlUVdsQ0VJeWtFdmxUcWkwQWZlNGtRc0VObHB2NW53UGhNQWR5cGx6ZVZkNDlPR3pjbGhlYmxqRVZZY2hSeFdYM1ZTVGxzZ2ZvMFhKeFV2Q1JFLXNRNV94UVhHaWdfbFdpWUpnVkJmN0VzZWF1YTQyekFORldQTHZPNnhrdw?oc=5",
+      "published": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "source": "TechCrunch",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUxmZWtsN04tdnA4TTN1RHNQVEhxTV8ycG9tNktGOG0xU2llRDdlUVdsQ0VJeWtFdmxUcWkwQWZlNGtRc0VObHB2NW53UGhNQWR5cGx6ZVZkNDlPR3pjbGhlYmxqRVZZY2hSeFdYM1ZTVGxzZ2ZvMFhKeFV2Q1JFLXNRNV94UVhHaWdfbFdpWUpnVkJmN0VzZWF1YTQyekFORldQTHZPNnhrdw?oc=5\" target=\"_blan"
+    },
+    {
+      "title": "Anthropic rankles users with safety-first Fable release - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dBSDkxQU9FamFvM3VsdTlGOHlWa3YyaGllTkRsb1JYR2NQRWlBb01FZlNTYzVVb3NjTW16QjZfcHBkbUZhZWdRc2xQUXVzTkxlV0RxaUtDNTc0d2VpMWtlcDRMb3FnS254RVVLSFdUX0pmekpiZldLOFJlUjBsdlBhUHJ1YVRNY0g4NHJleHcyeUI0dm5pLWgyb2pNRENQT1E?oc=5",
+      "published": "Thu, 11 Jun 2026 22:26:09 GMT",
+      "source": "NBC News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dBSDkxQU9FamFvM3VsdTlGOHlWa3YyaGllTkRsb1JYR2NQRWlBb01FZlNTYzVVb3NjTW16QjZfcHBkbUZhZWdRc2xQUXVzTkxlV0RxaUtDNTc0d2VpMWtlcDRMb3FnS254RVVLSFdUX0pmekpiZldLOFJlUjBsdlBhUHJ1YVRNY0g4NHJleHcyeUI0dm5pLWgyb2pNRENQT1E?oc=5\" target=\"_blank\">Anthropi"
+    }
+  ],
+  "analysis": {
+    "key_quotes": [
+      "Anthropic chief says AI could surpass “almost all humans at almost everything” shortly after 2027 - Ars Technica",
+      "Anthropic's Amodei suggests universal basic income could offset 'intrinsic' AI-related job losses - Business Insider",
+      "Anthropic backs mandatory testing for frontier AI models - Politico"
+    ],
+    "market_impacts": [
+      {
+        "sector": "存储芯片/HBM",
+        "impact": "利好",
+        "confidence": 0.9,
+        "mentions": 1,
+        "keywords": [
+          "hbm"
+        ]
+      },
+      {
+        "sector": "晶圆厂",
+        "impact": "利好",
+        "confidence": 0.85,
+        "mentions": 2,
+        "keywords": [
+          "fab"
+        ]
+      },
+      {
+        "sector": "制裁",
+        "impact": "利空",
+        "confidence": 0.8,
+        "mentions": 1,
+        "keywords": [
+          "ban"
+        ]
+      },
+      {
+        "sector": "Google",
+        "impact": "关注",
+        "confidence": 0.7,
+        "mentions": 19,
+        "keywords": [
+          "google"
+        ]
+      },
+      {
+        "sector": "LG",
+        "impact": "关注",
+        "confidence": 0.7,
+        "mentions": 2,
+        "keywords": [
+          "lg"
+        ]
+      }
+    ],
+    "inferred_location": "Unknown",
+    "location_confidence": 0.0
+  },
+  "status": "📍 Unknown · 利好 存储芯片/HBM"
+}

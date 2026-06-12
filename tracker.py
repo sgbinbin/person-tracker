@@ -2,6 +2,7 @@
 """
 AI Leaders Tracker - Track public figures' news, appearances, and activities
 Uses patchright (undetected Playwright) for anti-detection web scraping
+Includes rule-based analysis for market impact and location inference
 """
 
 import json
@@ -9,6 +10,10 @@ import os
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
+
+# Import analyzer
+sys.path.insert(0, str(Path(__file__).parent))
+from analyzer import generate_analysis_summary, format_for_display
 
 # Data directory
 DATA_DIR = Path.home() / "scripts" / "person-tracker" / "data"
@@ -40,6 +45,71 @@ PEOPLE = [
             "Masayoshi Son Tokyo",
             "Masayoshi Son visit",
             "孫正義 ソフトバンク"
+        ]
+    },
+    {
+        "id": "elon-musk",
+        "name": "Elon Musk",
+        "name_ja": "イーロン・マスク",
+        "name_zh": "埃隆·马斯克",
+        "title": "Tesla, SpaceX & xAI CEO",
+        "queries": [
+            "Elon Musk June 2026",
+            "Elon Musk Tesla",
+            "Elon Musk xAI",
+            "イーロン・マスク"
+        ]
+    },
+    {
+        "id": "sam-altman",
+        "name": "Sam Altman",
+        "name_ja": "サム・アルトマン",
+        "name_zh": "萨姆·阿尔特曼",
+        "title": "OpenAI CEO",
+        "queries": [
+            "Sam Altman June 2026",
+            "Sam Altman OpenAI",
+            "Sam Altman visit",
+            "サム・アルトマン OpenAI"
+        ]
+    },
+    {
+        "id": "dario-amodei",
+        "name": "Dario Amodei",
+        "name_ja": "ダリオ・アモデイ",
+        "name_zh": "达里奥·阿莫德伊",
+        "title": "Anthropic CEO",
+        "queries": [
+            "Dario Amodei June 2026",
+            "Dario Amodei Anthropic",
+            "Dario Amodei Claude",
+            "ダリオ・アモデイ Anthropic"
+        ]
+    },
+    {
+        "id": "mark-zuckerberg",
+        "name": "Mark Zuckerberg",
+        "name_ja": "マーク・ザッカーバーグ",
+        "name_zh": "马克·扎克伯格",
+        "title": "Meta CEO",
+        "queries": [
+            "Mark Zuckerberg June 2026",
+            "Mark Zuckerberg Meta",
+            "Mark Zuckerberg AI",
+            "マーク・ザッカーバーグ Meta"
+        ]
+    },
+    {
+        "id": "sundar-pichai",
+        "name": "Sundar Pichai",
+        "name_ja": "サンダー・ピチャイ",
+        "name_zh": "桑达尔·皮查伊",
+        "title": "Google & Alphabet CEO",
+        "queries": [
+            "Sundar Pichai June 2026",
+            "Sundar Pichai Google",
+            "Sundar Pichai AI",
+            "サンダー・ピチャイ Google"
         ]
     }
 ]
@@ -132,76 +202,6 @@ def fetch_news_with_browser(query: str, limit: int = 10) -> list:
         return []
 
 
-def extract_location_info(articles: list) -> dict:
-    """Extract location/activity information from news articles"""
-    # Keywords that indicate location/travel
-    location_keywords = {
-        # Countries
-        "japan": "Japan", "日本": "Japan",
-        "korea": "South Korea", "韓国": "South Korea", "韩国": "South Korea",
-        "taiwan": "Taiwan", "台湾": "Taiwan",
-        "china": "China", "中国": "China",
-        "usa": "USA", "united states": "USA", "美国": "USA", "米国": "USA",
-        "singapore": "Singapore", "新加坡": "Singapore", "シンガポール": "Singapore",
-        "india": "India", "印度": "India", "インド": "India",
-        "europe": "Europe", "欧州": "Europe",
-        "germany": "Germany", "ドイツ": "Germany",
-        "uk": "UK", "イギリス": "UK",
-        # Cities
-        "taipei": "Taipei", "台北": "Taipei",
-        "tokyo": "Tokyo", "東京": "Tokyo", "东京": "Tokyo",
-        "seoul": "Seoul", "ソウル": "Seoul", "首尔": "Seoul",
-        "beijing": "Beijing", "北京": "Beijing",
-        "shanghai": "Shanghai", "上海": "Shanghai",
-        "shenzhen": "Shenzhen", "深圳": "Shenzhen",
-        "san jose": "San Jose", "サンノゼ": "San Jose",
-        "santa clara": "Santa Clara",
-        "las vegas": "Las Vegas", "ラスベガス": "Las Vegas",
-        "computex": "Taipei (Computex)", "台北国际电脑展": "Taipei (Computex)",
-        "ces": "Las Vegas (CES)",
-        "mwc": "Barcelona (MWC)",
-        "gdc": "San Francisco (GDC)",
-        "siggraph": "USA (SIGGRAPH)",
-    }
-    
-    # Activity keywords
-    activity_keywords = {
-        "keynote": "Keynote Speech",
-        "演讲": "Keynote Speech", "基調講演": "Keynote Speech",
-        "conference": "Conference", "会议": "Conference", "カンファレンス": "Conference",
-        "visit": "Official Visit", "訪問": "Official Visit", "访问": "Official Visit",
-        "meeting": "Meeting", "会談": "Meeting", "会见": "Meeting",
-        "announce": "Product Announcement", "発表": "Product Announcement", "发布": "Product Announcement",
-        "launch": "Product Launch", "発売": "Product Launch",
-        "partner": "Partnership", "提携": "Partnership", "合作": "Partnership",
-        "invest": "Investment", "投資": "Investment", "投资": "Investment",
-        "factory": "Factory/Manufacturing", "工場": "Factory/Manufacturing", "工厂": "Factory/Manufacturing",
-        "chip": "Semiconductor", "半導体": "Semiconductor", "芯片": "Semiconductor",
-        "ai": "AI Development", "人工知能": "AI Development", "人工智能": "AI Development",
-    }
-    
-    locations = []
-    activities = []
-    
-    for article in articles:
-        text = f"{article['title']} {article['snippet']}".lower()
-        
-        # Check for locations
-        for keyword, location in location_keywords.items():
-            if keyword in text and location not in locations:
-                locations.append(location)
-        
-        # Check for activities
-        for keyword, activity in activity_keywords.items():
-            if keyword in text and activity not in activities:
-                activities.append(activity)
-    
-    return {
-        "locations": locations[:5],  # Top 5 locations
-        "activities": activities[:5]  # Top 5 activities
-    }
-
-
 def track_person(person: dict) -> dict:
     """Track a single person and return their data"""
     print(f"\n🔍 Tracking: {person['name']} ({person['title']})")
@@ -226,8 +226,15 @@ def track_person(person: dict) -> dict:
     # Sort by date (most recent first)
     unique_articles.sort(key=lambda x: x.get("published", ""), reverse=True)
     
-    # Extract location/activity info
-    insights = extract_location_info(unique_articles)
+    # Run analysis
+    print(f"  🧠 Running AI analysis...")
+    analysis = generate_analysis_summary(person["name"], unique_articles)
+    
+    # Generate status
+    status = f"📍 {analysis['inferred_location']}"
+    if analysis["market_impacts"]:
+        top_sector = analysis["market_impacts"][0]
+        status += f" · {top_sector['impact']} {top_sector['sector']}"
     
     result = {
         "person_id": person["id"],
@@ -237,23 +244,24 @@ def track_person(person: dict) -> dict:
         "tracked_at": datetime.utcnow().isoformat() + "Z",
         "news_count": len(unique_articles),
         "recent_news": unique_articles[:10],
-        "insights": insights,
-        "status": generate_status(insights)
+        "analysis": {
+            "key_quotes": analysis["key_quotes"],
+            "market_impacts": analysis["market_impacts"],
+            "inferred_location": analysis["inferred_location"],
+            "location_confidence": analysis["location_confidence"]
+        },
+        "status": status
     }
     
+    # Print summary
     print(f"  ✅ Found {len(unique_articles)} articles")
-    print(f"  📍 Locations: {', '.join(insights['locations'][:3]) or 'Unknown'}")
-    print(f"  🎯 Activities: {', '.join(insights['activities'][:3]) or 'Unknown'}")
+    print(f"  📍 Location: {analysis['inferred_location']} ({analysis['location_confidence']:.0%})")
+    if analysis["key_quotes"]:
+        print(f"  🗣 Key quotes: {len(analysis['key_quotes'])}")
+    if analysis["market_impacts"]:
+        print(f"  📈 Market impacts: {len(analysis['market_impacts'])} sectors")
     
     return result
-
-
-def generate_status(insights: dict) -> str:
-    """Generate a human-readable status string"""
-    location = insights["locations"][0] if insights["locations"] else "Unknown"
-    activity = insights["activities"][0] if insights["activities"] else "Public Activities"
-    
-    return f"📍 {location} · {activity}"
 
 
 def save_data(person_id: str, data: dict):
@@ -270,8 +278,7 @@ def save_history(person_id: str, data: dict):
     entry = {
         "timestamp": data["tracked_at"],
         "news_count": data["news_count"],
-        "locations": data["insights"]["locations"],
-        "activities": data["insights"]["activities"],
+        "location": data["analysis"]["inferred_location"],
         "status": data["status"]
     }
     with open(history_file, "a", encoding="utf-8") as f:
@@ -304,7 +311,7 @@ def generate_combined_dashboard():
 def main():
     """Main tracking function"""
     print("=" * 60)
-    print("🤖 AI Leaders Tracker")
+    print("🤖 AI Leaders Tracker (with Analysis)")
     print(f"⏰ {datetime.utcnow().isoformat()}Z")
     print("=" * 60)
     
@@ -318,6 +325,15 @@ def main():
         data = track_person(person)
         save_data(person["id"], data)
         save_history(person["id"], data)
+        
+        # Print analysis summary
+        print(f"\n{'─' * 40}")
+        print(format_for_display({
+            "summary": f"📍 {data['analysis']['inferred_location']}",
+            "key_quotes": data["analysis"]["key_quotes"],
+            "market_impacts": data["analysis"]["market_impacts"]
+        }))
+        print(f"{'─' * 40}")
     
     # Generate combined dashboard
     dashboard = generate_combined_dashboard()
