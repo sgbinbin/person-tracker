@@ -10,35 +10,35 @@
       "ja": {
         "name": "ジェンスン・フアン",
         "role": "NVIDIA 共同創業者 / CEO",
-        "location": "UK",
-        "status": "📍 UK · AI Development"
+        "location": "South Korea",
+        "status": "📍 South Korea · Seoul · Meeting with Korean conglomerates"
       },
       "en": {
         "name": "Jensen Huang",
         "role": "NVIDIA Founder / CEO",
-        "location": "UK",
-        "status": "📍 UK · AI Development"
+        "location": "South Korea",
+        "status": "📍 South Korea · Seoul · Meeting with Korean conglomerates"
       }
     },
     "news": [
       {
         "topic": {
-          "en": "Semiconductors",
-          "ja": "Semiconductors"
+          "en": "AI Development",
+          "ja": "AI Development"
         },
         "head": {
-          "en": "Jensen Huang's vision of the future! The acceleration of the 'Token economy' is driving a sharp expa",
-          "ja": "Jensen Huang's vision of the future! The acceleration of the 'Token economy' is driving a sharp expa"
+          "en": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure",
+          "ja": "AI Weekly: Anthropic rolls out Mythos, Jensen Huang's South Korea adventure"
         },
         "src": {
-          "en": "Moomoo",
-          "ja": "Moomoo"
+          "en": "Reuters",
+          "ja": "Reuters"
         },
         "time": {
-          "en": "Mar 25",
-          "ja": "Mar 25"
+          "en": "9 hours ago",
+          "ja": "9 hours ago"
         },
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWJiTUJxRlFuLTVOTWJVYVk4UWhLS21qTFFjdU8wSDF2cGJIU1dySzk3M1FpV0t0QjBFSFA5a2U3TXRidVVuaFF0X1Q5VjFBY242Q3lKM0FCSV9oOXRDRTBFd3BCbGhMM1ROVXFTcEg2ZnM4SUIzRlNTMmtEMUJMSWlFeDQ3bG9ja3NmdjUwb1hRdmQ0X2JjSHpxNUJPcjJzazVBVzhhRjB2dlotRkpGWGhoSQ?oc=5"
+        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
       },
       {
         "topic": {
@@ -46,18 +46,37 @@
           "ja": "AI News"
         },
         "head": {
-          "en": "Jensen Huang: The 100 Most Influential People of 2024 - Time Magazine",
-          "ja": "Jensen Huang: The 100 Most Influential People of 2024 - Time Magazine"
+          "en": "Why Jensen Huang wanted Korea to call him 'K-Jensen'",
+          "ja": "Why Jensen Huang wanted Korea to call him 'K-Jensen'"
         },
         "src": {
-          "en": "Time Magazine",
-          "ja": "Time Magazine"
+          "en": "The Korea Herald",
+          "ja": "The Korea Herald"
         },
         "time": {
-          "en": "Apr 17",
-          "ja": "Apr 17"
+          "en": "23 hours ago",
+          "ja": "23 hours ago"
         },
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUxuR2E2WkcyN0FyTFJoVFRvWVN6UVptak1WakgtTDN5SU1sVE1zNlN1WVZRZHNfR1R3RDAwSWxOUmM4YVZGZHY1T0R6bXM5bERmNHlXSkpocDA0bTdLWFdxSW1KUzYxbG0yTDducGotRXUtZWV1M1pQclk0cFpQemVHYTF5cnVhZ3B3eUhWeDZtQQ?oc=5"
+        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
+      },
+      {
+        "topic": {
+          "en": "AI News",
+          "ja": "AI News"
+        },
+        "head": {
+          "en": "Jensen Huang Commands Seoul Stage With Night of Street Theater",
+          "ja": "Jensen Huang Commands Seoul Stage With Night of Street Theater"
+        },
+        "src": {
+          "en": "Bloomberg",
+          "ja": "Bloomberg"
+        },
+        "time": {
+          "en": "5 days ago",
+          "ja": "5 days ago"
+        },
+        "url": "https://news.google.com/search?q=Jensen+Huang+Seoul"
       },
       {
         "topic": {
@@ -65,18 +84,18 @@
           "ja": "Semiconductors"
         },
         "head": {
-          "en": "Nvidia CEO Jensen Huang Just Announced a New Multitrillion-Dollar AI Collaboration With an Unexpecte",
-          "ja": "Nvidia CEO Jensen Huang Just Announced a New Multitrillion-Dollar AI Collaboration With an Unexpecte"
+          "en": "Nvidia CEO says robotics is South Korea's next big sector",
+          "ja": "Nvidia CEO says robotics is South Korea's next big sector"
         },
         "src": {
-          "en": "inc.com",
-          "ja": "inc.com"
+          "en": "Reuters",
+          "ja": "Reuters"
         },
         "time": {
-          "en": "2 days ago",
-          "ja": "2 days ago"
+          "en": "Jun 05",
+          "ja": "Jun 05"
         },
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnNWZkdyREFkckRHQU9oemNuSHlrYXNteGpDRE54NzVhTlNyYjA1WVZRTXpMYkhsM2lDWkJFeVFtZGlfbFhNdkJab29lXzAyX2FqdGFmOXZRVDFaM2RBOHFNQVNhelpuYko1X210VUk0VHRfOENzQXJkOE8yNDU0SGI1SEMyYmg5MFB4dlpLdGUwT09pUnRQQUFOV1g1eTFRTGVSOTRyTWJPdGJfN2RCaHl2RlVZWWc4c092TE85aUp1bjkzY3A3dzB0cXdDaXFWbjhhNGJvN2s2QQ?oc=5"
+        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
       },
       {
         "topic": {
@@ -84,41 +103,22 @@
           "ja": "Semiconductors"
         },
         "head": {
-          "en": "‘Buy Qualcomm Stock’ — Nvidia CEO Jensen Huang’s Endorsement Sends QCOM Higher - TipRanks",
-          "ja": "‘Buy Qualcomm Stock’ — Nvidia CEO Jensen Huang’s Endorsement Sends QCOM Higher - TipRanks"
+          "en": "Nvidia's CEO says new Vera chip will use SK Hynix's memory chips",
+          "ja": "Nvidia's CEO says new Vera chip will use SK Hynix's memory chips"
         },
         "src": {
-          "en": "TipRanks",
-          "ja": "TipRanks"
+          "en": "Fortune",
+          "ja": "Fortune"
         },
         "time": {
-          "en": "2 days ago",
-          "ja": "2 days ago"
+          "en": "4 days ago",
+          "ja": "4 days ago"
         },
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2M4OWF0Ti1XTm9XZHBnaXB3VlNZbUhwZ3k2bTVrbThfWXphU0FzRS1RSUtyQ2RBZ1pEbWNLNUY2RmVCZmVPdzFac1dZWDdCVVJIOWxsMEdLQjUwd3dJMXhMVVdUaVpKOHA4LUgtUGhZWUNPaUUxZGpuOVVxOXROdE5HWHkyT0oxNnZLamVFQmFTQ1ZZTlBsR3BsWWs2MGJubnZVUA?oc=5"
-      },
-      {
-        "topic": {
-          "en": "Semiconductors",
-          "ja": "Semiconductors"
-        },
-        "head": {
-          "en": "Why soaring memory prices could be Nvidia's next big advantage - Business Insider",
-          "ja": "Why soaring memory prices could be Nvidia's next big advantage - Business Insider"
-        },
-        "src": {
-          "en": "Business Insider",
-          "ja": "Business Insider"
-        },
-        "time": {
-          "en": "21 hours ago",
-          "ja": "21 hours ago"
-        },
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzFqcXMxRDlqcXROdXBtRVVPaGR1Vkw5cHU3WnNFalh6Z1BVTUFrR3RVaE1OZ0o2X3VhdmF5eXNGcEhOOE43eEdyeWRVSnRNRm5NR01ZakN6dlo3b2dvU2R2SVU5cGc1Q0lWSzJyVVU1MkgyVzJJazdaaEp6U3cwdVZvMA?oc=5"
+        "url": "https://news.google.com/search?q=Jensen+Huang+Korea"
       }
     ],
-    "tracked_at": "2026-06-12T06:03:04.518887Z",
-    "news_count": 10
+    "tracked_at": "2026-06-12T06:16:08.579819Z",
+    "news_count": 5
   },
   "masayoshi-son": {
     "person_id": "masayoshi-son",
