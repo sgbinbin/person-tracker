@@ -23,9 +23,10 @@ PEOPLE = [
         "name_zh": "黄仁勋",
         "title": "NVIDIA CEO & Co-founder",
         "queries": [
-            "Jensen Huang NVIDIA",
-            "黄仁勲 NVIDIA",
-            "ジェンスン・フアン"
+            "Jensen Huang June 2026",
+            "Jensen Huang Seoul",
+            "Jensen Huang visit",
+            "黄仁勲 NVIDIA"
         ]
     },
     {
@@ -35,9 +36,10 @@ PEOPLE = [
         "name_zh": "孙正义",
         "title": "SoftBank Group CEO",
         "queries": [
-            "Masayoshi Son SoftBank",
-            "孫正義 ソフトバンク",
-            "孙正义 软银"
+            "Masayoshi Son June 2026",
+            "Masayoshi Son Tokyo",
+            "Masayoshi Son visit",
+            "孫正義 ソフトバンク"
         ]
     }
 ]
